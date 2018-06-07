@@ -13,7 +13,7 @@ declare const DefaultPath: string;
 })
 export class AppComponent {
 	pages = Pages.map(page => page.name);
-	title = 'Franken SoCraTes';
+	title = 'SoCraTes Day Franken - 29.09.2018';
 
 	constructor() {
 		console.log(typeof DefaultPath);

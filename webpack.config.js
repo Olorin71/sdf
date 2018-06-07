@@ -152,13 +152,13 @@ module.exports = (env) => ({
 	},
 	"entry": {
 		"main": [
-			"./src\\main.ts"
+			"./src/main.ts"
 		],
 		"polyfills": [
-			"./src\\polyfills.ts"
+			"./src/polyfills.ts"
 		],
 		"styles": [
-			"./src\\styles.css"
+			"./src/styles.css"
 		]
 	},
 	"output": {
@@ -191,7 +191,7 @@ module.exports = (env) => ({
 			},
 			{
 				"exclude": [
-					path.join(process.cwd(), "src\\styles.css")
+					path.join(process.cwd(), "src/styles.css")
 				],
 				"test": /\.css$/,
 				"use": [
@@ -215,7 +215,7 @@ module.exports = (env) => ({
 			},
 			{
 				"exclude": [
-					path.join(process.cwd(), "src\\styles.css")
+					path.join(process.cwd(), "src/styles.css")
 				],
 				"test": /\.scss$|\.sass$/,
 				"use": [
@@ -247,7 +247,7 @@ module.exports = (env) => ({
 			},
 			{
 				"exclude": [
-					path.join(process.cwd(), "src\\styles.css")
+					path.join(process.cwd(), "src/styles.css")
 				],
 				"test": /\.less$/,
 				"use": [
@@ -277,7 +277,7 @@ module.exports = (env) => ({
 			},
 			{
 				"exclude": [
-					path.join(process.cwd(), "src\\styles.css")
+					path.join(process.cwd(), "src/styles.css")
 				],
 				"test": /\.styl$/,
 				"use": [
@@ -308,7 +308,7 @@ module.exports = (env) => ({
 			},
 			{
 				"include": [
-					path.join(process.cwd(), "src\\styles.css")
+					path.join(process.cwd(), "src/styles.css")
 				],
 				"test": /\.css$/,
 				"use": [
@@ -332,7 +332,7 @@ module.exports = (env) => ({
 			},
 			{
 				"include": [
-					path.join(process.cwd(), "src\\styles.css")
+					path.join(process.cwd(), "src/styles.css")
 				],
 				"test": /\.scss$|\.sass$/,
 				"use": [
@@ -364,7 +364,7 @@ module.exports = (env) => ({
 			},
 			{
 				"include": [
-					path.join(process.cwd(), "src\\styles.css")
+					path.join(process.cwd(), "src/styles.css")
 				],
 				"test": /\.less$/,
 				"use": [
@@ -394,7 +394,7 @@ module.exports = (env) => ({
 			},
 			{
 				"include": [
-					path.join(process.cwd(), "src\\styles.css")
+					path.join(process.cwd(), "src/styles.css")
 				],
 				"test": /\.styl$/,
 				"use": [
@@ -441,14 +441,14 @@ module.exports = (env) => ({
 				"context": "src",
 				"to": "",
 				"from": {
-					"glob": "src\\assets\\**\\*",
+					"glob": "src/assets/**/*",
 					"dot": true
 				}
 			},{
 				"context": "src",
 				"to": "",
 				"from": {
-					"glob": "src\\pages\\**\\*",
+					"glob": "src/pages/**/*",
 					"dot": true
 				}
 			},
@@ -456,7 +456,7 @@ module.exports = (env) => ({
 				"context": "src",
 				"to": "",
 				"from": {
-					"glob": "src\\favicon.ico",
+					"glob": "src/favicon.ico",
 					"dot": true
 				}
 			}
@@ -477,7 +477,7 @@ module.exports = (env) => ({
 		}),
 		new NamedLazyChunksWebpackPlugin(),
 		new HtmlWebpackPlugin({
-			"template": "./src\\index.html",
+			"template": "./src/index.html",
 			"filename": "./index.html",
 			"hash": false,
 			"inject": true,
@@ -537,10 +537,10 @@ module.exports = (env) => ({
 			"mainPath": "main.ts",
 			"platform": 0,
 			"hostReplacementPaths": {
-				"environments\\environment.ts": env === 'prod' ? "environments\\environment.prod.ts" : "environments\\environment.ts"
+				"environments/environment.ts": env === 'prod' ? "environments/environment.prod.ts" : "environments/environment.ts"
 			},
 			"sourceMap": env !== 'prod',
-			"tsConfigPath": "src\\tsconfig.app.json",
+			"tsConfigPath": "src/tsconfig.app.json",
 			"skipCodeGeneration": true,
 			"compilerOptions": {}
 		})
