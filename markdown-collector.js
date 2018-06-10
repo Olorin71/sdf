@@ -3,7 +3,7 @@ const path = require('path');
 
 function Collect(dir = './src/pages/') {
 	return fs.readdirSync(dir)
-		.map(file => ({name: file.replace(/(\.default)?\.md$/, ''), file, isDefault: /\.default\.md$/.test(file)}));
+		.map(file => ({name: file.replace(/((^[0-9]+.)|((\.default)?\.md$))/g, ''), file, isDefault: /\.default\.md$/.test(file)}));
 }
 
 function MarkdownDependencyPlugin(dir = './src/pages/') {
