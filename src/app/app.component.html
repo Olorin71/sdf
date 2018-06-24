@@ -1,6 +1,7 @@
 <mat-sidenav-container class="am-page">
 	<mat-sidenav fxShow fxHide.gt-sm #sidenav fxLayout mode="push" fxLayout="column" class="nav">
-		<span>{{title}}</span>
+		<span [routerLink]="['', homepage]" (click)="sidenav.close()">{{title}}</span>
+		<span [routerLink]="['', homepage]" (click)="sidenav.close()">{{subtitle}}</span>
 		<button mat-button></button> <!-- avoid focus of first element -->
 
 		<a mat-button *ngFor="let page of pages" [routerLink]="['', page]"
@@ -8,10 +9,10 @@
 	</mat-sidenav>
 
 	<mat-toolbar color="primary" (window:resize)="sidenav.close()">
-		<div class="logo" fxShow fxHide.gt-sm></div>
+		<div class="logo" fxShow fxHide.gt-sm [routerLink]="['', homepage]"></div>
 		<button mat-button fxShow fxHide.gt-sm (click)="sidenav.open()">Menu</button>
-		<div fxHide fxShow.gt-sm>
-			<span class="title">{{title}}</span>
+		<div fxHide fxShow.gt-sm fxLayout="row">
+			<span [routerLink]="['', homepage]" class="title">{{title}} {{subtitle}}</span>
 
 			<a mat-button *ngFor="let page of pages" [routerLink]="['', page]">{{page}}</a>
 		</div>

@@ -12,10 +12,14 @@ declare const DefaultPath: string;
 	styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-	pages = Pages.map(page => page.name);
-	title = 'SoCraTes Day Franken - 29.09.2018';
+	pages = Pages.filter(page => !page.isDefault).map(page => page.name);
+	homepage = Pages.filter(page => page.isDefault).map(page => page.name)[0]
+	title = 'SoCraTes Day Franken';
+	subtitle = '29.09.2018';
 
 	constructor() {
-		console.log(typeof DefaultPath);
+		console.log(JSON.stringify(Pages));
+	    console.log(JSON.stringify(this.pages));
+	    console.log(JSON.stringify(this.homepage));
 	}
 }
