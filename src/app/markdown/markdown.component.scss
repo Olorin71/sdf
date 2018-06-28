@@ -8,7 +8,7 @@ markdown {
 			text-decoration: underline;
 		}
 	}
-	/deep/ *:last-child {
+	/deep/ markdown > *:last-child {
 		padding-bottom: 10%;
 	}
 
