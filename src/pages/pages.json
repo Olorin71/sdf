@@ -1,0 +1,32 @@
+[
+	{
+		"name": "Home",
+		"file": "Home.md",
+		"isDefault": true
+	},
+	{
+		"name": "Veranstaltungsort",
+		"file": "Veranstaltungsort.md",
+		"isDefault": false
+	},
+	{
+		"name": "Ablauf",
+		"file": "Ablauf.md",
+		"isDefault": false
+	},
+	{
+		"name": "Tickets",
+		"file": "Tickets.md",
+		"isDefault": false
+	},
+	{
+		"name": "Sponsoren",
+		"file": "Sponsoren.md",
+		"isDefault": false
+	},
+	{
+		"name": "Werte",
+		"file": "Werte.md",
+		"isDefault": false
+	}
+]

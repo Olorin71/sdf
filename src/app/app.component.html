@@ -3,7 +3,7 @@
 		<span>{{title}}</span>
 		<button mat-button></button> <!-- avoid focus of first element -->
 
-		<a mat-button *ngFor="let page of pages" [routerLink]="['', page]"
+		<a mat-button *ngFor="let page of pages$ | async" [routerLink]="['', page]"
 		   (click)="sidenav.close()">{{page}}</a>
 	</mat-sidenav>
 
@@ -13,7 +13,7 @@
 		<div fxHide fxShow.gt-sm>
 			<span class="title">{{title}}</span>
 
-			<a mat-button *ngFor="let page of pages" [routerLink]="['', page]">{{page}}</a>
+			<a mat-button *ngFor="let page of pages$ | async" [routerLink]="['', page]">{{page}}</a>
 		</div>
 	</mat-toolbar>
 	<div class="content">

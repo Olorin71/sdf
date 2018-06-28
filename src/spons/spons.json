@@ -1,0 +1,12 @@
+[
+	{
+		"name": "Google",
+		"image": "/assets/google.png",
+		"link": "//google.de"
+	},
+	{
+		"name": "Angular",
+		"image": "/assets/angular.png",
+		"link": "//www.angular.io"
+	}
+]

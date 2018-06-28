@@ -1,0 +1,15 @@
+img {
+	max-width: 150px;
+	max-height: 100px;
+	pointer-events: none;
+}
+
+span {
+	text-decoration: none;
+	text-align: center;
+}
+
+a {
+	display: flex;
+	flex-direction: column;
+}

@@ -1,1 +1,5 @@
-<markdown [data]="(markdown$ | async) || ''"></markdown>
+<div class="layout-container" fxLayout.gt-sm="row" fxLayout="column" [ngClass.gt-sm]="{ 'static': true }">
+	<markdown [data]="(markdown$ | async) || ''"></markdown>
+	<app-sponsors></app-sponsors>
+</div>
+
