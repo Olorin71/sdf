@@ -1,33 +1,44 @@
 import {Component, HostBinding, OnInit} from '@angular/core';
 import {ActivatedRoute, Router} from '@angular/router';
-import {Observable} from 'rxjs/Observable';
-import 'rxjs/add/operator/do';
-import 'rxjs/add/operator/filter';
-import {HttpClient} from '@angular/common/http';
-import 'rxjs/add/operator/switchMap';
-import {SLIDE_RIGHT_ROUTE_TRANSITION} from '../app.animations';
-import {environment} from '../../environments/environment';
-import {Page} from '../models/page';
+import {Observable} from 'rxjs';
+import {FADE_IN_ROUTE_TRANSITION} from '../app.animations';
+import {Page} from '../pages/models/page';
+import {filter, map, switchMap, tap} from 'rxjs/operators';
+import {PagesService} from '../pages/pages.service';
 
-declare const Pages: Array<Page>;
 
 @Component({
 	templateUrl: './markdown.component.html',
 	styleUrls: ['./markdown.component.scss'],
-	animations: [...SLIDE_RIGHT_ROUTE_TRANSITION],
-	host: {'[@routeTransition]': ''}
+	animations: [...FADE_IN_ROUTE_TRANSITION]
 })
 export class MarkdownComponent implements OnInit {
+
+	@HostBinding('@routeTransition')
+	routeTransition = '';
+
+	pages$: Observable<Array<Page>>;
 	markdown$: Observable<string>;
 
-	constructor(private router: Router, private route: ActivatedRoute, private http: HttpClient) {
+	constructor(private router: Router, private route: ActivatedRoute, private pagesService: PagesService) {
+		this.pages$ = this.pagesService.getPages();
 	}
 
 	ngOnInit(): void {
-		this.markdown$ = this.route.params.map(params => params['page'])
-			.map(name => Pages.find(page => page.name === name))
-			.do(page => page || this.router.navigate(['/404']))
-			.filter(Boolean)
-			.switchMap(page => this.http.get(`${environment.pages}${page.file}`, {responseType: 'text'}));
+		this.markdown$ = this.route.params.pipe(
+			map(params => params['page']),
+			switchMap(name => this.pagesService.getPage(name)),
+			tap(page => this.checkIfExists(page)),
+			filter(Boolean),
+			switchMap(page => this.pagesService.getPageMarkDown(page)));
+	}
+
+	private checkIfExists(obj: any) {
+		if (!obj) {
+			this.pagesService.getPages().pipe(
+				map(pages => pages.find(page => page.isDefault)))
+				.subscribe(defaultPage => this.router.navigate([`/${defaultPage.name}`]));
+			// this.router.navigate(['/404']);
+		}
 	}
 }

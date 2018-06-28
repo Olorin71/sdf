@@ -1,13 +1,15 @@
 import {BrowserModule} from '@angular/platform-browser';
 import {NgModule} from '@angular/core';
+import {BrowserAnimationsModule} from '@angular/platform-browser/animations';
+import {FlexLayoutModule} from '@angular/flex-layout';
+import {MatButtonModule, MatSidenavModule, MatToolbarModule} from '@angular/material';
 
 import {AppComponent} from './app.component';
 import {RouteReuseStrategy, RouterModule} from '@angular/router';
 import {routes} from './app.routes';
-import {BrowserAnimationsModule} from '@angular/platform-browser/animations';
-import {FlexLayoutModule} from '@angular/flex-layout';
-import {MatButtonModule, MatSidenavModule, MatToolbarModule} from '@angular/material';
 import {CustomReuseStrategy} from './app.reuse-strategy';
+import {HttpClientModule} from '@angular/common/http';
+import {SponsorsModule} from './shared/sponsors/sponsors.module';
 
 
 @NgModule({
@@ -21,7 +23,9 @@ import {CustomReuseStrategy} from './app.reuse-strategy';
 		MatToolbarModule,
 		MatSidenavModule,
 		FlexLayoutModule,
-		RouterModule.forRoot(routes)
+		HttpClientModule,
+		RouterModule.forRoot(routes),
+		SponsorsModule
 	],
 	providers: [
 		{provide: RouteReuseStrategy, useClass: CustomReuseStrategy}

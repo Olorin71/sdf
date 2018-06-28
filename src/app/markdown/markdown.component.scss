@@ -1,3 +1,4 @@
+@import "../variables";
 
 markdown {
 	/deep/ a {
@@ -5,6 +6,36 @@ markdown {
 
 		&:hover {
 			text-decoration: underline;
+		}
+	}
+	/deep/ *:last-child {
+		padding-bottom: 10%;
+	}
+
+	padding: 5% 10% 0 10%;
+
+}
+
+.layout-container {
+	height: 100%;
+
+	&:not(.static) {
+		markdown {
+			height: 85%;
+			overflow: auto;
+		}
+
+		app-sponsors {
+			border-top: 1px solid map-get($primary-theme, 500);
+		}
+	}
+	&.static {
+		markdown {
+			width: 100%;
+		}
+
+		app-sponsors {
+			margin-top: 10px;
 		}
 	}
 }
