@@ -1,4 +1,4 @@
-# Socrates Franken
+# SoCraTes Day Franken
 
 ## Development server
 
