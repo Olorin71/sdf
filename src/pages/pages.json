@@ -33,5 +33,10 @@
 		"name": "Datenschutz",
 		"file": "Datenschutz.md",
 		"isDefault": false
+	},
+	{
+		"name": "Impressum",
+		"file": "Impressum.md",
+		"isDefault": false
 	}
 ]
