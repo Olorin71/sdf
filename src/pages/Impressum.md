@@ -20,15 +20,15 @@ Goethering 54<br />
 
 <p>Quelle: <a rel="nofollow" href="http://www.anwalt.de">Impressum-Generator von anwalt.de</a></p>
 
-<h3>Disclaimer</h3>
+<h3>Haftungsausschluss</h3>
 
-<p>Inhalt und Werke dieser Website sind urheberrechtlich geschützt. 
+Inhalt und Werke dieser Website sind urheberrechtlich geschützt. 
 Trotz höchster Sorgfalt kann nicht für die Richtigkeit der wiedergegebenen Informationen 
 oder die permanente technische Erreichbarkeit garantiert werden. 
 Es wird keine Haftung für den Inhalt von extern verlinkten Websites übernommen. 
 Auf deren Inhalte haben wir keinen Einfluss und distanzieren uns ausdrücklich. 
 Sollten Sie dennoch etwas an unseren Seiten zu beanstanden haben, 
 bitten wir um einen einfachen entsprechenden Hinweis, 
-damit wir die Inhalte schnellstmöglich entfernen können.</p><br />
+damit wir die Inhalte schnellstmöglich entfernen können.<br />
 
 <p>Quelle: <a href="https://www.anwalt.de/vorlage/disclaimer-haftungsausschluss.php" title="Haftungsausschluss Vorlage von anwalt.de">Disclaimer von anwalt.de</a></p>
