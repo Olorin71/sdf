@@ -23,7 +23,7 @@ oder persönliche Angriffe dient.
 - Macht euch die Wirkung eurer Worte auf andere bewusst. Wir sind eine Gemeinschaft 
 von Fachleuten und verhalten uns professionell. Begegnet euch auf Augenhöhe.
 - Bringt Verhalten, das gegen diesen Verhaltenskodex verstößt, zur Sprache. 
-Wenn ihr dabei Hilfe benötigt, dann wendet euch an ein Mitglied des „Hilfsteams“ (siehe unten).
+Wenn ihr dabei Hilfe benötigt, dann wendet euch an ein Mitglied des Organisationsteams (siehe unten).
 
 ### Nicht akzeptiertes Verhalten
 
@@ -41,8 +41,11 @@ Die folgenden Verhaltensweisen akzeptieren wir nicht:
 ### Vorgehen bei Vorfällen
 
 Wenn du Hilfe beim Vorgehen gegen unerwünschtes Verhalten benötigst, oder wenn du dich 
-unberechtigten Vorwürfen gegenüber siehst, dann wende dich an ein Mitglied unseres „Hilfsteams“ - 
-Namen und Kontaktdaten der Teammitglieder werden rechtzeitig vor Konferenzbeginn noch bekanntgegeben.
+unberechtigten Vorwürfen gegenüber siehst, dann wende dich an ein Mitglied des Organisationsteams.
+
+- Wende dich an das Organisationsteam
+- Wende dich an [socrates-day-franken.de](mailto:socrates-day-franken.de)
+- Wende dich an [@SoCraTesFranken](https://twitter.com/socratesfranken) (sende eine Direktnachricht)
 
 Beim Umgang mit Vorfällen werden wir mindestens eine zusätzliche unbeteiligte Person hinzuziehen. 
 Wir werden beide Seiten hören und gegebenenfalls Maßnahmen einleiten.

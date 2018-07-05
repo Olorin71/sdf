@@ -1,12 +1,37 @@
 [
 	{
-		"name": "Google",
-		"image": "/assets/google.png",
-		"link": "//google.de"
+		"name": "BNP Paribas S.A. Consorsbank",
+		"image": "/assets/Consorsbank-Logo.jpg",
+		"link": "//www.consorsbank.de"
 	},
 	{
-		"name": "Angular",
-		"image": "/assets/angular.png",
-		"link": "//www.angular.io"
+		"name": "codecentric AG",
+		"image": "/assets/CC_RGB_onWhite.jpg",
+		"link": "//www.codecentric.de"
+	},
+	{
+		"name": "DATEV eG",
+		"image": "/assets/datevlogo_2x.png",
+		"link": "//www.datev.de"
+	},
+	{
+		"name": "Elektrobit Automotive GmbH",
+		"image": "/assets/EB_logo_small_hires.jpg",
+		"link": "//www.elektrobit.com"
+	},
+	{
+		"name": "MATHEMA Software GmbH",
+		"image": "/assets/mathema_logo.jpg",
+		"link": "//www.mathema.de"
+	},
+	{
+		"name": "Mayflower GmbH",
+		"image": "/assets/Mayflower-Logo-880.png",
+		"link": "//mayflower.de"
+	},
+	{
+		"name": "Redheads Ltd.",
+		"image": "/assets/Redheads_Logo.png",
+		"link": "//www.redheads.de"
 	}
 ]
