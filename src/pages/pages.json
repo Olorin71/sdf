@@ -5,13 +5,13 @@
 		"isDefault": true
 	},
 	{
-		"name": "Veranstaltungsort",
-		"file": "Veranstaltungsort.md",
+		"name": "Ablauf",
+		"file": "Ablauf.md",
 		"isDefault": false
 	},
 	{
-		"name": "Ablauf",
-		"file": "Ablauf.md",
+		"name": "Ort",
+		"file": "Ort.md",
 		"isDefault": false
 	},
 	{
@@ -20,13 +20,13 @@
 		"isDefault": false
 	},
 	{
-		"name": "Sponsoren",
-		"file": "Sponsoren.md",
+		"name": "Werte",
+		"file": "Werte.md",
 		"isDefault": false
 	},
 	{
-		"name": "Werte",
-		"file": "Werte.md",
+		"name": "Sponsoren",
+		"file": "Sponsoren.md",
 		"isDefault": false
 	},
 	{
