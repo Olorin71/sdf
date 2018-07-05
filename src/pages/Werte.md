@@ -44,7 +44,7 @@ Wenn du Hilfe beim Vorgehen gegen unerwünschtes Verhalten benötigst, oder wenn
 unberechtigten Vorwürfen gegenüber siehst, dann wende dich an ein Mitglied des Organisationsteams.
 
 - Wende dich an das Organisationsteam
-- Wende dich an [socrates-day-franken.de](mailto:socrates-day-franken.de)
+- Wende dich an [info@socrates-day-franken.de](mailto:info@socrates-day-franken.de)
 - Wende dich an [@SoCraTesFranken](https://twitter.com/socratesfranken) (sende eine Direktnachricht)
 
 Beim Umgang mit Vorfällen werden wir mindestens eine zusätzliche unbeteiligte Person hinzuziehen. 
