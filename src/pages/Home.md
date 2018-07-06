@@ -8,9 +8,10 @@ Der SoCraTes Day Franken ist eine eintägige regionale Ausgabe
 der [SoCraTes Conference](https://socrates-conference.de/), 
 der International Conference for Software Craft and Testing.
 
-Die Veranstaltung bietet allen an Software-Entwicklung und -Test Interessierten
-im Rahmen eines selbstorganisierten [Open Space](https://agilecoachcamp.org/tiki-index.php?page=OpenSpace)
-eine Plattform, um von- und miteinander zu lernen.
+Die Veranstaltung bietet eine Plattform für alle,
+denen Software-Entwicklung und -Test am Herzen liegt,
+um im Rahmen eines selbstorganisierten [Open Space](https://agilecoachcamp.org/tiki-index.php?page=OpenSpace)
+von- und miteinander zu lernen.
 
 Das kann stattfinden in Form von
 - praktischen Programmier-Sessions am Rechner
