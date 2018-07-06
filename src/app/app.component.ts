@@ -10,10 +10,14 @@ import {map} from 'rxjs/operators';
 })
 export class AppComponent {
 	pages$: Observable<Array<string>>;
-	title = 'SoCraTes Day Franken - 29.09.2018';
+	homepages$: Observable<Array<string>>;
+	title = 'SoCraTes Day Franken';
+	subtitle = '29.09.2018';
 
 	constructor(private pagesService: PagesService) {
 		this.pages$ = this.pagesService.getPages()
-			.pipe(map(pages => pages.map(page => page.name)));
+			.pipe(map(pages => pages.filter(page => !page.isDefault).map(page => page.name)));
+		this.homepages$ = this.pagesService.getPages()
+			.pipe(map(pages => pages.filter(page => page.isDefault).map(page => page.name)));
 	}
 }
