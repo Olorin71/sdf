@@ -24,6 +24,6 @@ der [Softwerkskammer Nürnberg](https://www.softwerkskammer.org/groups/nuernberg
 
 ### Tickets
 
-Registriert euch hier für die Veranstaltung
+Die Anmeldung für die Veranstaltung wird demnächst freigeschaltet.
 
-<tito-widget event="latti/socrates-day-franken-2018"></tito-widget>
+

@@ -15,11 +15,6 @@
 		"isDefault": false
 	},
 	{
-		"name": "Tickets",
-		"file": "Tickets.md",
-		"isDefault": false
-	},
-	{
 		"name": "Werte",
 		"file": "Werte.md",
 		"isDefault": false
