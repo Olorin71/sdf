@@ -1,34 +1,55 @@
-## Impressum
+# Impressum
 
-<h3>Angaben gemäß § 5 TMG</h3>
-
-Alexandre Soler Sanandres<br />
-Goethering 54<br />
-90547 Stein<br />
-
-<h3>Kontakt</h3>
-
-Telefon: +49 (0) 911 2777504<br />
-Telefax: <br />
-E-Mail: alexandre@soler-sanandres.net<br />
-
-<h3>Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV</h3>
+## Angaben gemäß § 5 TMG:
 
 Alexandre Soler Sanandres<br />
-Goethering 54<br />
-90547 Stein<br />
+Am Hirschanger 1<br />
+90610 Winkelhaid
 
-<p>Quelle: <a rel="nofollow" href="http://www.anwalt.de">Impressum-Generator von anwalt.de</a></p>
+## Kontakt:
+Telefon: +4991877062912<br />
+Telefax: nicht vorhanden<br />
+E-Mail: info@socrates-day-franken.de
 
-<h3>Haftungsausschluss</h3>
+## Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:
+Alexandre Soler Sanandres<br />
+Am Hirschanger 1<br />
+90610 Winkelhaid
 
-Inhalt und Werke dieser Website sind urheberrechtlich geschützt. 
-Trotz höchster Sorgfalt kann nicht für die Richtigkeit der wiedergegebenen Informationen 
-oder die permanente technische Erreichbarkeit garantiert werden. 
-Es wird keine Haftung für den Inhalt von extern verlinkten Websites übernommen. 
-Auf deren Inhalte haben wir keinen Einfluss und distanzieren uns ausdrücklich. 
-Sollten Sie dennoch etwas an unseren Seiten zu beanstanden haben, 
-bitten wir um einen einfachen entsprechenden Hinweis, 
-damit wir die Inhalte schnellstmöglich entfernen können.<br />
+## Streitschlichtung
+Die Europäische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) bereit: 
+<a href="https://ec.europa.eu/consumers/odr" target="_blank">https://ec.europa.eu/consumers/odr</a>. 
+Unsere E-Mail-Adresse finden Sie oben im Impressum.
 
-<p>Quelle: <a href="https://www.anwalt.de/vorlage/disclaimer-haftungsausschluss.php" title="Haftungsausschluss Vorlage von anwalt.de">Disclaimer von anwalt.de</a></p>
+Wir sind nicht bereit oder verpflichtet, an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teilzunehmen.
+
+## Haftung für Inhalte
+
+Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. 
+Nach §§ 8 bis 10 TMG sind wir als Diensteanbieter jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu 
+überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen.
+
+Verpflichtungen zur Entfernung oder Sperrung der Nutzung von Informationen nach den allgemeinen Gesetzen bleiben hiervon unberührt. 
+Eine diesbezügliche Haftung ist jedoch erst ab dem Zeitpunkt der Kenntnis einer konkreten Rechtsverletzung möglich. Bei Bekanntwerden 
+von entsprechenden Rechtsverletzungen werden wir diese Inhalte umgehend entfernen.
+
+## Haftung für Links
+Unser Angebot enthält Links zu externen Websites Dritter, auf deren Inhalte wir keinen Einfluss haben. Deshalb können wir für diese 
+fremden Inhalte auch keine Gewähr übernehmen. Für die Inhalte der verlinkten Seiten ist stets der jeweilige Anbieter oder Betreiber 
+der Seiten verantwortlich. Die verlinkten Seiten wurden zum Zeitpunkt der Verlinkung auf mögliche Rechtsverstöße überprüft. 
+Rechtswidrige Inhalte waren zum Zeitpunkt der Verlinkung nicht erkennbar.
+
+Eine permanente inhaltliche Kontrolle der verlinkten Seiten ist jedoch ohne konkrete Anhaltspunkte einer Rechtsverletzung nicht 
+zumutbar. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Links umgehend entfernen.
+
+## Urheberrecht
+Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen dem deutschen Urheberrecht. 
+Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung außerhalb der Grenzen des Urheberrechtes bedürfen der 
+schriftlichen Zustimmung des jeweiligen Autors bzw. Erstellers. Downloads und Kopien dieser Seite sind nur für den privaten, 
+nicht kommerziellen Gebrauch gestattet.
+
+Soweit die Inhalte auf dieser Seite nicht vom Betreiber erstellt wurden, werden die Urheberrechte Dritter beachtet. 
+Insbesondere werden Inhalte Dritter als solche gekennzeichnet. Sollten Sie trotzdem auf eine Urheberrechtsverletzung aufmerksam 
+werden, bitten wir um einen entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Inhalte umgehend 
+entfernen.
+
