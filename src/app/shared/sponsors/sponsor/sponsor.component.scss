@@ -1,5 +1,5 @@
 img {
-	max-width: 150px;
+	max-width: 74%;
 	max-height: 100px;
 	pointer-events: none;
 }
@@ -12,8 +12,6 @@ span {
 a {
 	display: flex;
 	flex-direction: column;
-	margin-top: 15px;
-	margin-bottom: 15px;
-	margin-left: 15px;
-	margin-right: 15px;
+	align-items: center;
+	margin: 8%;
 }

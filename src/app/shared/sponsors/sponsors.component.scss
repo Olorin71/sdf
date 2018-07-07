@@ -2,7 +2,16 @@ div {
 	//justify-content: center;
 	align-items: center;
 
+	app-sponsor {
+		width: 150px;
+		max-width: 150px;
+	}
 	&:not(.static) {
 		padding: 0 2%;
+
+		app-sponsor {
+			width: 14vw;
+			max-width: 14vw;
+		}
 	}
 }

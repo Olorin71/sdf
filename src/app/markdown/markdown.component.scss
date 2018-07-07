@@ -15,7 +15,10 @@ markdown {
 	padding: 5% 10% 0 10%;
 
 }
-
+app-sponsors {
+	min-height: 15%;
+	display: flex;
+}
 .layout-container {
 	height: 100%;
 
@@ -27,6 +30,7 @@ markdown {
 
 		app-sponsors {
 			border-top: 1px solid map-get($primary-theme, 500);
+			align-items: center;
 		}
 	}
 	&.static {
