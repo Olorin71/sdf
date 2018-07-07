@@ -27,6 +27,4 @@ Häufig finden sich dann Leute zur Session ein, die viel zum Thema beitragen kö
 - Ab 18:00 kommen wir zu einer Retrospektive zusammen, gefolgt vom offiziellen Abschluß.
 - Anschließend ab ca. 18:30 Uhr besteht Gelegenheit zum Abendessen und den Tag gemeinsam ausklingen zu lassen.
 
-### Catering
 
-Dank unserer [Sponsoren](./Sponsoren) ist für Verpflegung und Getränke gesorgt.
