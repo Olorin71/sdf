@@ -2,7 +2,7 @@ import {Injectable} from '@angular/core';
 import {HttpClient} from '@angular/common/http';
 import {Sponsor} from './models/sponsor';
 import {of, Observable} from 'rxjs';
-import {tap} from 'rxjs/operators';
+import { map, tap } from 'rxjs/operators';
 
 @Injectable({
 	providedIn: 'root'
@@ -15,6 +15,13 @@ export class SponsorsService {
 	}
 
 	getSponsors(): Observable<Array<Sponsor>> {
+		const randomize = () => Math.floor(Math.random() * 3 - 1); // -1, 0 or 1
+
+		return this._getSponsors()
+			.pipe(map(sponsors => sponsors.sort(randomize)));
+	}
+
+	private _getSponsors(): Observable<Array<Sponsor>> {
 		if (this.sponsors) {
 			return of(this.sponsors);
 		}
