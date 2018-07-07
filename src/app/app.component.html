@@ -8,7 +8,7 @@
 	</mat-sidenav>
 
 	<mat-toolbar color="primary" (window:resize)="sidenav.close()">
-		<div class="logo" fxShow fxHide.gt-sm [routerLink]="['', homepage]"></div>
+		<div class="logo" fxShow fxHide.gt-sm *ngFor="let homepage of homepages$ | async"[routerLink]="['', homepage]"></div>
 		<button mat-button fxShow fxHide.gt-sm (click)="sidenav.open()">Menu</button>
 		<div fxHide fxShow.gt-sm fxLayout="row">
 			<a mat-button *ngFor="let homepage of homepages$ | async" [routerLink]="['', homepage]" class="title">{{title}} - {{subtitle}}</a>
