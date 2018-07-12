@@ -2,7 +2,7 @@
 
 Bei einer Open Space Konferenz (auch: Unkonferenz) gibt es kein vorab festgelegtes 
 inhaltliches Programm, denn die Inhalte werden von den Teilnehmern beigesteuert.
-Es wird jedoch der organisatorische Rahmen incl. eines Zeitrasters bereitgestellt.
+Es wird jedoch der organisatorische Rahmen inklusive eines Zeitrasters bereitgestellt.
 
 Alle Teilnehmer kommen am Anfang in einem großen Raum zusammen, um den Tag gemeinsam zu gestalten.
 Wer möchte greift sich einen Zettel und notiert ein Thema als Beitrag zur Agenda.
