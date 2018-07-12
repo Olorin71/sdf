@@ -9,12 +9,12 @@ der [SoCraTes Conference](https://socrates-conference.de/),
 der International Conference for Software Craft and Testing.
 
 Die Veranstaltung bietet eine Plattform für alle,
-denen Software-Entwicklung und -Test am Herzen liegt,
+denen Softwareentwicklung und -test am Herzen liegt,
 um im Rahmen eines selbstorganisierten [Open Space](https://agilecoachcamp.org/tiki-index.php?page=OpenSpace)
 von- und miteinander zu lernen.
 
 Das kann stattfinden in Form von
-- praktischen Programmier-Sessions am Rechner
+- praktischen Programmiersessions am Rechner
 - fokussierten Diskussionen
 - interaktiven Vorträgen
 - oder was auch immer euch einfällt
