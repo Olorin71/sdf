@@ -19,3 +19,7 @@ Run `npm run build:prod` to build the project in production mode. The build arti
 
 All `.md`-files referenced in the [pages json](./src/pages/pages.json) with `"isDefault": false` will be available in the menu and displayed as a page.
 The `.md`-file with `"isDefault": true` will available via link on the title and be displayed as default page.
+
+## Sponsors
+
+All images referenced in the [spons json](./src/spons/spons.json) will be shown in the sponsors area with links to each sponsor's website.
