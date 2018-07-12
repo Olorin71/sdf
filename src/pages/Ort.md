@@ -2,7 +2,7 @@
 
 ### Consorsbank Nürnberg
 
-Der SoCraTes Day Franken findet statt in den Räumen der Consorsbank in Nürnberg am Samstag den 29.09.2018.
+Der SoCraTes Day Franken findet am Samstag den 29.09.2018 in den Räumen der Consorsbank in Nürnberg statt.
 
 [Webseite der Consorsbank](https://www.consorsbank.de/)
 
@@ -24,4 +24,4 @@ Es stehen Parkmöglichkeiten direkt am Veranstaltungsort zur Verfügung.
 
 ### Übernachtungsmöglichkeiten
 
-Es gibt viele Hotels in Nürnberg und auch in der Nähe des Veranstaltungsorts.
+Es gibt in Nürnberg eine große Anzahl an Hotels. Einige davon sind vom Veranstaltungsort auch zu Fuß gut erreichbar.
