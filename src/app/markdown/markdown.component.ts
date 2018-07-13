@@ -6,10 +6,6 @@ import {Page} from '../pages/models/page';
 import {filter, map, switchMap, tap} from 'rxjs/operators';
 import {PagesService} from '../pages/pages.service';
 
-declare const TitoWidget: {
-	buildWidgets()
-};
-
 @Component({
 	templateUrl: './markdown.component.html',
 	styleUrls: ['./markdown.component.scss'],
@@ -33,8 +29,7 @@ export class MarkdownComponent implements OnInit {
 			switchMap(name => this.pagesService.getPage(name)),
 			tap(page => this.checkIfExists(page)),
 			filter(Boolean),
-			switchMap(page => this.pagesService.getPageMarkDown(page)),
-			tap(() => requestAnimationFrame(TitoWidget.buildWidgets)));
+			switchMap(page => this.pagesService.getPageMarkDown(page)));
 	}
 
 	private checkIfExists(obj: any) {
