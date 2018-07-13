@@ -1,15 +1,13 @@
-## Unsere Sponsoren
+# Unsere Sponsoren
 
-### [BNP Paribas S.A. Consorsbank](//www.consorsbank.de)
+### <a href="//www.consorsbank.de" target="_blank">BNP Paribas S.A. Consorsbank</a>
 
-### [codecentric AG](//www.codecentric.de)
+### <a href="//www.codecentric.de" target="_blank">codecentric AG</a>
 
-### [DATEV eG](//www.datev.de)
+### <a href="//www.datev.de" target="_blank">DATEV eG</a>
 
-### [Elektrobit Automotive GmbH](//www.elektrobit.com)
+### <a href="//www.elektrobit.com" target="_blank">Elektrobit Automotive GmbH</a>
 
-### [MATHEMA Software GmbH](//www.mathema.de)
+### <a href="//www.mathema.de" target="_blank">MATHEMA Software GmbH</a> / <a href="//www.redheads.de" target="_blank">Redheads Ltd.</a>
 
-### [Mayflower GmbH](//mayflower.de)
-
-### [Redheads Ltd.](//www.redheads.de)
+### <a href="//mayflower.de" target="_blank">Mayflower GmbH</a>
