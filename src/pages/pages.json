@@ -1,0 +1,37 @@
+[
+	{
+		"name": "Home",
+		"file": "Home.md",
+		"isDefault": true
+	},
+	{
+		"name": "Ablauf",
+		"file": "Ablauf.md",
+		"isDefault": false
+	},
+	{
+		"name": "Ort",
+		"file": "Ort.md",
+		"isDefault": false
+	},
+	{
+		"name": "Werte",
+		"file": "Werte.md",
+		"isDefault": false
+	},
+	{
+		"name": "Sponsoren",
+		"file": "Sponsoren.md",
+		"isDefault": false
+	},
+	{
+		"name": "Datenschutz",
+		"file": "Datenschutz.md",
+		"isDefault": false
+	},
+	{
+		"name": "Impressum",
+		"file": "Impressum.md",
+		"isDefault": false
+	}
+]

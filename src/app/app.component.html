@@ -1,0 +1,23 @@
+<mat-sidenav-container class="am-page">
+	<mat-sidenav fxShow fxHide.gt-sm #sidenav fxLayout mode="push" fxLayout="column" class="nav">
+		<button mat-button></button> <!-- avoid focus of first element -->
+		<a mat-button *ngFor="let homepage of homepages$ | async"[routerLink]="['', homepage]" (click)="sidenav.close()">{{title}}</a>
+
+		<a mat-button *ngFor="let page of pages$ | async" [routerLink]="['', page]"
+		   (click)="sidenav.close()">{{page}}</a>
+	</mat-sidenav>
+
+	<mat-toolbar color="primary" (window:resize)="sidenav.close()">
+		<div class="logo" fxShow fxHide.gt-sm *ngFor="let homepage of homepages$ | async"[routerLink]="['', homepage]"></div>
+		<button mat-button fxShow fxHide.gt-sm (click)="sidenav.open()">Menu</button>
+		<div fxHide fxShow.gt-sm fxLayout="row">
+			<a mat-button *ngFor="let homepage of homepages$ | async" [routerLink]="['', homepage]" class="title">{{title}} - {{subtitle}}</a>
+
+			<a mat-button *ngFor="let page of pages$ | async" [routerLink]="['', page]">{{page}}</a>
+		</div>
+	</mat-toolbar>
+	<div class="content">
+		<router-outlet></router-outlet>
+	</div>
+
+</mat-sidenav-container>

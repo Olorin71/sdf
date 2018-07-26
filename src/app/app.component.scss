@@ -1,0 +1,84 @@
+@import "variables";
+
+:host {
+	display: block;
+	height: 100%;
+}
+
+.logo, .title {
+	&:before {
+		content: '';
+		position: absolute;
+		width: 60px;
+		height: 60px;
+		border-radius: 50%;
+
+		background-image: url("../assets/SoCraTes_Franken.png");
+		background-size: 60px;
+	}
+}
+
+.logo:before {
+	margin-top: -30px;
+}
+
+.title {
+	padding-left: 75px;
+
+	&:before {
+		margin-top: -12px;
+		margin-left: -75px;
+	}
+}
+
+.am-page {
+	height: 100%;
+
+	mat-sidenav {
+		padding: 20px;
+
+		&.nav.mat-drawer {
+			background-color: $primary-background-color;
+		}
+		span {
+			align-self: center;
+			padding: 0 5px;
+			margin-bottom: 15px;
+			color: $primary-font-color;
+			border-bottom: 1px solid $primary-font-color;
+		}
+		.mat-button {
+			/deep/ span {
+				color: $accent-font-color;
+			}
+		}
+	}
+
+	mat-toolbar {
+		button {
+			font-size: 1.1em;
+			margin-left: 75px;
+		}
+		span {
+			padding-right: 5px;
+		}
+	}
+
+	.content {
+		height: calc(100% - 64px);
+	}
+
+	footer {
+		background-color: $primary-background-color;
+		display: flex;
+		justify-content: center;
+		padding: 10px;
+		position: fixed;
+		bottom: 0;
+		right: 0;
+		left: 0;
+	}
+}
+
+
+

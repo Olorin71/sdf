@@ -1,0 +1,36 @@
+import {BrowserModule} from '@angular/platform-browser';
+import {NgModule} from '@angular/core';
+import {BrowserAnimationsModule} from '@angular/platform-browser/animations';
+import {FlexLayoutModule} from '@angular/flex-layout';
+import {MatButtonModule, MatSidenavModule, MatToolbarModule} from '@angular/material';
+
+import {AppComponent} from './app.component';
+import {RouteReuseStrategy, RouterModule} from '@angular/router';
+import {routes} from './app.routes';
+import {CustomReuseStrategy} from './app.reuse-strategy';
+import {HttpClientModule} from '@angular/common/http';
+import {SponsorsModule} from './shared/sponsors/sponsors.module';
+
+
+@NgModule({
+	declarations: [
+		AppComponent
+	],
+	imports: [
+		BrowserModule,
+		BrowserAnimationsModule,
+		MatButtonModule,
+		MatToolbarModule,
+		MatSidenavModule,
+		FlexLayoutModule,
+		HttpClientModule,
+		RouterModule.forRoot(routes),
+		SponsorsModule
+	],
+	providers: [
+		{provide: RouteReuseStrategy, useClass: CustomReuseStrategy}
+	],
+	bootstrap: [AppComponent]
+})
+export class AppModule {
+}
