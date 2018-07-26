@@ -20,6 +20,11 @@
 		"link": "//www.elektrobit.com"
 	},
 	{
+		"name": "innoQ Deutschland GmbH",
+		"image": "/assets/logo-innoq-blue-red-rgb.svg",
+		"link": "//www.innoq.com"
+	},
+	{
 		"name": "MATHEMA Software GmbH",
 		"image": "/assets/mathema_logo.jpg",
 		"link": "//www.mathema.de"
