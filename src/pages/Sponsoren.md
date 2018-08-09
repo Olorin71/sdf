@@ -8,6 +8,8 @@
 
 ### <a href="//www.elektrobit.com" target="_blank">Elektrobit Automotive GmbH</a>
 
+### <a href="//www.innoq.com" target="_blank">innoQ Deutschland GmbH</a>
+
 ### <a href="//www.mathema.de" target="_blank">MATHEMA Software GmbH</a> / <a href="//www.redheads.de" target="_blank">Redheads Ltd.</a>
 
 ### <a href="//mayflower.de" target="_blank">Mayflower GmbH</a>

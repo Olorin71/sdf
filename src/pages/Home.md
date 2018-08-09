@@ -24,6 +24,8 @@ der <a href="https://www.softwerkskammer.org/groups/nuernberg" target="_blank">S
 
 ## Tickets
 
-Die Anmeldung für die Veranstaltung wird demnächst freigeschaltet.
+Die **<a href="https://ti.to/SoCraTesDayFranken/2018" target="_blank">Anmeldung</a>**
+für den SoCraTes Day Franken läuft 
+über **<a href="https://ti.to/SoCraTesDayFranken/2018" target="_blank">Tito</a>**.
 
 
