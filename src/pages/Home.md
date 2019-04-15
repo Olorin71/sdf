@@ -1,6 +1,6 @@
 # SoCraTes Day Franken
 
-## Samstag 29.09.2018 in Nürnberg
+## Samstag 28.09.2019 in Nürnberg
 
 ## Worum geht es?
 
@@ -24,8 +24,5 @@ der <a href="https://www.softwerkskammer.org/groups/nuernberg" target="_blank">S
 
 ## Tickets
 
-Die **<a href="https://ti.to/SoCraTesDayFranken/2018" target="_blank">Anmeldung</a>**
-für den SoCraTes Day Franken läuft 
-über **<a href="https://ti.to/SoCraTesDayFranken/2018" target="_blank">Tito</a>**.
-
-
+Die Anmeldung für den SoCraTes Day Franken ist noch nicht frei geschaltet,
+wird aber wieder laufen über **<a href="https://ti.to/SoCraTesDayFranken/2019" target="_blank">Tito</a>**.

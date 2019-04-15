@@ -26,4 +26,4 @@ The `.md`-file with `"isDefault": true` will available via link on the title and
 
 ## Sponsors
 
-All images referenced in the [spons json](./src/spons/spons.json) will be shown in the sponsors area with links to each sponsor's website.
+All images referenced in the [spons_current json](./src/spons/spons_current.json) will be shown in the sponsors area with links to each sponsor's website.

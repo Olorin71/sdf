@@ -26,7 +26,7 @@ export class SponsorsService {
 			return of(this.sponsors);
 		}
 
-		return this.http.get<Array<Sponsor>>('/spons/spons.json')
+		return this.http.get<Array<Sponsor>>('/spons/spons_current.json')
 			.pipe(tap(sponsors => this.sponsors = sponsors));
 	}
 }
