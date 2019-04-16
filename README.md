@@ -1,5 +1,9 @@
 # SoCraTes Day Franken
 
+## Prepare
+
+After checkout run `npm ci` to get all dependencies without generating a new [package-lock json](./package-lock.json).
+
 ## Development server
 
 Run `npm start` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
