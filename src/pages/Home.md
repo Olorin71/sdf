@@ -25,4 +25,4 @@ der <a href="https://www.softwerkskammer.org/groups/nuernberg" target="_blank">S
 ## Tickets
 
 Die Anmeldung für den SoCraTes Day Franken ist noch nicht frei geschaltet,
-wird aber wieder laufen über **<a href="https://ti.to/SoCraTesDayFranken/2019" target="_blank">Tito</a>**.
+wird aber wieder über **<a href="https://ti.to/SoCraTesDayFranken/2019" target="_blank">Tito</a>** laufen.
