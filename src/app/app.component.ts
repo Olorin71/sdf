@@ -12,7 +12,7 @@ export class AppComponent {
 	pages$: Observable<Array<string>>;
 	homepages$: Observable<Array<string>>;
 	title = 'SoCraTes Day Franken';
-	subtitle = '29.09.2018';
+	subtitle = '28.09.2019';
 
 	constructor(private pagesService: PagesService) {
 		this.pages$ = this.pagesService.getPages()

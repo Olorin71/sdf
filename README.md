@@ -1,5 +1,9 @@
 # SoCraTes Day Franken
 
+## Prepare
+
+After checkout run `npm ci` to get all dependencies without generating a new [package-lock json](./package-lock.json).
+
 ## Development server
 
 Run `npm start` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
@@ -22,4 +26,4 @@ The `.md`-file with `"isDefault": true` will available via link on the title and
 
 ## Sponsors
 
-All images referenced in the [spons json](./src/spons/spons.json) will be shown in the sponsors area with links to each sponsor's website.
+All images referenced in the [spons_current json](./src/spons/spons_current.json) will be shown in the sponsors area with links to each sponsor's website.
