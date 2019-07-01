@@ -8,5 +8,20 @@
 		"name": "codecentric AG",
 		"image": "/assets/CC_RGB_onWhite.jpg",
 		"link": "//www.codecentric.de"
+	},
+	{
+		"name": "Hetzner Online GmbH",
+		"image": "/assets/logo-hetzner.svg",
+		"link": "//www.hetzner.de"
+	},
+	{
+		"name": "innoQ Deutschland GmbH",
+		"image": "/assets/logo-innoq-blue-red-rgb.svg",
+		"link": "//www.innoq.com"
+	},
+	{
+		"name": "Method Park Holding AG",
+		"image": "/assets/method-park-logo.png",
+		"link": "//www.methodpark.de"
 	}
 ]
