@@ -20,8 +20,18 @@
 		"link": "//www.innoq.com"
 	},
 	{
+		"name": "MATHEMA Software GmbH",
+		"image": "/assets/mathema_logo.jpg",
+		"link": "//www.mathema.de"
+	},
+	{
 		"name": "Method Park Holding AG",
 		"image": "/assets/method-park-logo.png",
 		"link": "//www.methodpark.de"
+	},
+	{
+		"name": "Redheads Ltd.",
+		"image": "/assets/Redheads_Logo.png",
+		"link": "//www.redheads.de"
 	}
 ]
