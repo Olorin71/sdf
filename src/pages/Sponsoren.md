@@ -12,4 +12,6 @@
 
 ### <a href="//www.methodpark.de" target="_blank">Method Park Holding AG</a>
 
+### <a href="//www.pentasys.de" target="_blank">PENTASYS AG</a>
+
 ### <a href="//www.redheads.de" target="_blank">Redheads Ltd.</a>
