@@ -4,6 +4,10 @@
 
 Der SoCraTes Day Franken 2018 hat stattgefunden am Samstag den 29.09.2018 in den Räumen der <a href="https://www.consorsbank.de/" target="_blank">Consorsbank</a> in Nürnberg.
 
+## Sessions 2018
+
+<img src="/assets/IMG_20180929_100527.jpg">
+<img src="/assets/IMG_20180929_101157.jpg">
 
 ## Unsere Sponsoren 2018
 
