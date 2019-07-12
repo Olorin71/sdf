@@ -22,10 +22,10 @@ Häufig finden sich dann Leute zur Session ein, die viel zum Thema beitragen kö
 Beim letzten Mal hatten wir folgenden Zeitplan. Für 2019 können sich noch Änderungen ergeben.
 - Ab 08:00 Uhr sind die Türen geöffnet und es wird ein Frühstück angeboten.
 - Um 09:00 Uhr starten wir mit der Begrüßung und eröffnen dann den Marktplatz zum Sammeln von Ideen für Sessions.
-- Von 10:30 bis 12:30 Uhr finden die 1. und 2. Session statt.
-- Danach gibt es von 12:30 bis 13:30 Uhr eine Pause mit Mittagessen.
-- Von 13:30 bis 17:30 Uhr sind die Sessions 3 bis 6 geplant.
-- Ab 18:00 kommen wir zu einer Retrospektive zusammen, gefolgt vom offiziellen Abschluß.
-- Anschließend ab ca. 18:30 Uhr besteht Gelegenheit zum Abendessen und den Tag gemeinsam ausklingen zu lassen.
+- Von 10:00 bis 13:00 Uhr finden die 1., 2. und 3. Session statt.
+- Danach gibt es von 13:00 bis 14:00 Uhr eine Pause mit Mittagessen.
+- Von 14:00 bis 17:00 Uhr sind die Sessions 4 bis 6 geplant.
+- Ab 17:30 kommen wir zu einer Retrospektive zusammen, gefolgt vom offiziellen Abschluß.
+- Anschließend ab ca. 18:00 Uhr besteht Gelegenheit zum Abendessen und den Tag gemeinsam ausklingen zu lassen.
 
 
