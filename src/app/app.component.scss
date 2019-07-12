@@ -62,6 +62,9 @@
 		span {
 			padding-right: 5px;
 		}
+		&.mat-toolbar-single-row {
+			height: 60px;
+		}
 	}
 
 	.content {
