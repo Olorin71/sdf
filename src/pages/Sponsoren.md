@@ -4,6 +4,8 @@
 
 ### <a href="//www.consorsbank.de" target="_blank">BNP Paribas S.A. Consorsbank</a>
 
+### <a href="//www.brandad-systems.de" target="_blank">BRANDAD Systems AG</a>
+
 ### <a href="//www.codecentric.de" target="_blank">codecentric AG</a>
 
 ### <a href="//www.hetzner.de" target="_blank">Hetzner Online GmbH</a>
