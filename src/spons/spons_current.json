@@ -5,6 +5,11 @@
 		"link": "//www.datev.de"
 	},
 	{
+		"name": "agile elevation",
+		"image": "/assets/agile-elevation-logo.svg",
+		"link": "//www.agile-elevation.de"
+	},
+	{
 		"name": "BNP Paribas S.A. Consorsbank",
 		"image": "/assets/Consorsbank-Logo.jpg",
 		"link": "//www.consorsbank.de"
