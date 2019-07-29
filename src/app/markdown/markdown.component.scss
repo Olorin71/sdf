@@ -26,6 +26,9 @@ app-sponsors {
 		markdown {
 			height: 85%;
 			overflow: auto;
+			/deep/ img {
+				max-width: 100%
+			}
 		}
 
 		app-sponsors {
@@ -36,6 +39,9 @@ app-sponsors {
 	&.static {
 		markdown {
 			width: 100%;
+			/deep/ img {
+				max-width: 45%
+			}
 		}
 
 		app-sponsors {

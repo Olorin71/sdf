@@ -10,7 +10,7 @@ div {
 			position: relative;
 
 			&::before {
-				content: "Unsere Sponsoren";
+				content: "Sponsoren";
 				position: absolute;
 				color: grey;
 				font-size: .75em;
@@ -31,8 +31,8 @@ div {
 			margin-left: 16px;
 		}
 		app-sponsor {
-			width: (100vw / 7);
-			max-width: (100vw / 7);
+			width: (100vw / 6);
+			max-width: (100vw / 6);
 
 			&:first-child {
 				margin-top: 0;
@@ -43,7 +43,7 @@ div {
 				}
 			}
 			::ng-deep a {
-				min-height: 14vh;
+				min-height: 4vh;
 				justify-content: center;
 
 				img {

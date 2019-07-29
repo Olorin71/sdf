@@ -5,6 +5,21 @@
 		"link": "//www.datev.de"
 	},
 	{
+		"name": "agile elevation",
+		"image": "/assets/agile-elevation-logo.svg",
+		"link": "//www.agile-elevation.de"
+	},
+	{
+		"name": "BNP Paribas S.A. Consorsbank",
+		"image": "/assets/Consorsbank-Logo.jpg",
+		"link": "//www.consorsbank.de"
+	},
+	{
+		"name": "BRANDAD Systems AG",
+		"image": "/assets/brandad-systems_2x.png",
+		"link": "//www.brandad-systems.de"
+	},
+	{
 		"name": "codecentric AG",
 		"image": "/assets/CC_RGB_onWhite.jpg",
 		"link": "//www.codecentric.de"
@@ -20,8 +35,23 @@
 		"link": "//www.innoq.com"
 	},
 	{
+		"name": "MATHEMA Software GmbH",
+		"image": "/assets/mathema_logo.jpg",
+		"link": "//www.mathema.de"
+	},
+	{
 		"name": "Method Park Holding AG",
 		"image": "/assets/method-park-logo.png",
 		"link": "//www.methodpark.de"
+	},
+	{
+		"name": "PENTASYS AG",
+		"image": "/assets/pentasys-logo.svg",
+		"link": "//www.pentasys.de"
+	},
+	{
+		"name": "Redheads Ltd.",
+		"image": "/assets/Redheads_Logo.png",
+		"link": "//www.redheads.de"
 	}
 ]
