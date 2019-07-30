@@ -45,6 +45,11 @@
 		"link": "//www.methodpark.de"
 	},
 	{
+		"name": "Paessler AG",
+		"image": "/assets/paessler-logo.svg",
+		"link": "//www.de.paessler.com"
+	},
+	{
 		"name": "PENTASYS AG",
 		"image": "/assets/pentasys-logo.svg",
 		"link": "//www.pentasys.de"
