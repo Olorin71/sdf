@@ -2,7 +2,7 @@
 
 ### <a href="//www.datev.de" target="_blank">DATEV eG</a>
 
-### <a href="//www.agile-elevation.de" target="_blank">agile elevation</a>
+### <a href="http://www.agile-elevation.de" target="_blank">agile elevation</a>
 
 ### <a href="//www.consorsbank.de" target="_blank">BNP Paribas S.A. Consorsbank</a>
 
