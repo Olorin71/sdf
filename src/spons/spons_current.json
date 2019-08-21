@@ -35,6 +35,11 @@
 		"link": "//www.innoq.com"
 	},
 	{
+		"name": "ISO Gruppe",
+		"image": "/assets/logo-iso-gruppe.svg",
+		"link": "//www.iso-gruppe.com"
+	},
+	{
 		"name": "MATHEMA Software GmbH",
 		"image": "/assets/mathema_logo.jpg",
 		"link": "//www.mathema.de"
