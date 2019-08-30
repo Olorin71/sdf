@@ -21,7 +21,7 @@
 	},
 	{
 		"name": "codecentric AG",
-		"image": "/assets/CC_RGB_onWhite.jpg",
+		"image": "/assets/CC_RGB_onWhite.svg",
 		"link": "//www.codecentric.de"
 	},
 	{
@@ -33,6 +33,11 @@
 		"name": "innoQ Deutschland GmbH",
 		"image": "/assets/logo-innoq-blue-red-rgb.svg",
 		"link": "//www.innoq.com"
+	},
+	{
+		"name": "ISO Gruppe",
+		"image": "/assets/logo-iso-gruppe.svg",
+		"link": "//www.iso-gruppe.com"
 	},
 	{
 		"name": "MATHEMA Software GmbH",
