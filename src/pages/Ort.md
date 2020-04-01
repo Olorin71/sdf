@@ -2,7 +2,7 @@
 
 ## DATEV Nürnberg
 
-Der SoCraTes Day Franken findet am Samstag den 28.09.2019 in den Räumen der DATEV in Nürnberg statt.
+Der SoCraTes Day Franken findet am Samstag den 10.10.2020 in den Räumen der DATEV in Nürnberg statt.
 
 <a href="https://www.datev.de/" target="_blank">Webseite der DATEV</a>
 
