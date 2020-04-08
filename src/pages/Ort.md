@@ -1,27 +1,23 @@
 # Veranstaltungsort
 
-## DATEV Nürnberg
+## Silbury Fürth
 
-Der SoCraTes Day Franken findet am Samstag den 10.10.2020 in den Räumen der DATEV in Nürnberg statt.
+Der SoCraTes Day Franken findet am Samstag den 10.10.2020 in den Räumen von Silbury in Fürth statt.
 
-<a href="https://www.datev.de/" target="_blank">Webseite der DATEV</a>
+<a href="https://www.silbury.com/" target="_blank">Webseite von Silbury</a>
 
 ### Anfahrt
 
-Adresse: **DATEV IT-Campus, Fürther Str. 111, 90429 Nürnberg**
+Adresse: **Silbury Deutschland GmbH, Fichtenstraße 20, 90763 Fürth**
 
 #### Mit dem Zug
 
-Der Veranstaltungsort liegt in Laufentfernung (250 m) vom U-Bahnhof Bärenschanze in Nürnberg.
+Der Veranstaltungsort liegt in Laufentfernung (700 m) vom Hauptbahnhof Fürth.
 
-<a href="https://www.google.de/maps/dir/B%C3%A4renschanze,+N%C3%BCrnberg/DATEV+IT-Campus,+F%C3%BCrther+Str.+111,+90429+N%C3%BCrnberg/@49.4531175,11.0475707,18z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x479f56576bde7c17:0x35f7df04faf80b1e!2m2!1d11.0510265!2d49.4523843!1m5!1m1!1s0x479f5659757a82b1:0x9ce3e8a11e7136c7!2m2!1d11.046309!2d49.4533143!3e2" target="_blank">Fußweg vom U-Bahnhof auf Google Maps</a>
+<a href="https://www.google.de/maps/dir/F%C3%BCrth+(Bay)+Hbf,+F%C3%BCrth/Silbury+Deutschland+GmbH,+Fichtenstra%C3%9Fe+20,+90763+F%C3%BCrth/@49.4689443,10.9861449,17z/am=t/data=!4m14!4m13!1m5!1m1!1s0x479f55c0b4c1c2bb:0x68ec217b29d86d92!2m2!1d10.990158!2d49.4700715!1m5!1m1!1s0x479f55c9fbb4824d:0xa36d177d25803816!2m2!1d10.9853405!2d49.4668114!3e2" target="_blank">Fußweg vom Hauptbahnhof Fürth auf Google Maps</a>
 
 #### Mit dem Auto
 
-Es stehen Parkmöglichkeiten direkt am Veranstaltungsort zur Verfügung.
+Es stehen Parkmöglichkeiten in der Nähe des Veranstaltungsorts zur Verfügung.
 
-<a href="https://www.google.de/maps/dir//DATEV+IT-Campus,+F%C3%BCrther+Str.+111,+90429+N%C3%BCrnberg/@49.453293,10.9760978,12z/data=!4m9!4m8!1m0!1m5!1m1!1s0x479f5659757a82b1:0x9ce3e8a11e7136c7!2m2!1d11.046309!2d49.4533143!3e0" target="_blank">Route über Google Maps suchen</a>
-
-### Übernachtungsmöglichkeiten
-
-Es gibt in Nürnberg eine große Anzahl an Hotels. Einige davon sind vom Veranstaltungsort auch zu Fuß gut erreichbar.
+<a href="https://www.google.de/maps/dir//Silbury+Deutschland+GmbH,+Fichtenstra%C3%9Fe+20,+90763+F%C3%BCrth/@49.4669018,10.9153008,12z/data=!4m9!4m8!1m0!1m5!1m1!1s0x479f55c9fbb4824d:0xa36d177d25803816!2m2!1d10.9853405!2d49.4668114!3e0" target="_blank">Route über Google Maps suchen</a>

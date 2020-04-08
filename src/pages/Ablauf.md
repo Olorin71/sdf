@@ -19,6 +19,7 @@ Häufig finden sich dann Leute zur Session ein, die viel zum Thema beitragen kö
 
 ## Zeitplan
 
+Beim letzten Mal hatten wir folgenden Zeitplan. Für 2020 können sich noch Änderungen ergeben.
 - Ab 08:00 Uhr sind die Türen geöffnet und es wird ein Frühstück angeboten.
 - Um 09:00 Uhr starten wir mit der Begrüßung und eröffnen dann den Marktplatz zum Sammeln von Ideen für Sessions.
 - Von 10:15 bis 12:15 Uhr finden die 1. und 2. Session statt.
