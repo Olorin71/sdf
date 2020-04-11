@@ -2,9 +2,9 @@
 
 ## Silbury Fürth
 
-Der SoCraTes Day Franken findet am Samstag den 10.10.2020 in den Räumen von Silbury in Fürth statt.
+Der SoCraTes Day Franken findet am Samstag den 10.10.2020 in den Räumen der Silbury Deutschland GmbH in Fürth statt.
 
-<a href="https://www.silbury.com/" target="_blank">Webseite von Silbury</a>
+<a href="https://www.silbury.com/" target="_blank">Webseite der Silbury Deutschland GmbH</a>
 
 ### Anfahrt
 
