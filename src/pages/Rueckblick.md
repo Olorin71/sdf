@@ -6,7 +6,10 @@ Der SoCraTes Day Franken 2019 hat stattgefunden am Samstag den 28.09.2019 in den
 
 ## Sessions 2019
 
-Fotos sind auf Twitter zu finden ...
+<img src="/assets/scdf19-sessions-1.jpeg">
+<img src="/assets/scdf19-sessions-2.jpeg">
+<img src="/assets/scdf19-sessions-3.jpeg">
+<img src="/assets/scdf19-kick-off.jpeg">
 
 ## Unsere Sponsoren 2019
 
