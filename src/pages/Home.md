@@ -1,6 +1,6 @@
 # SoCraTes Day Franken
 
-## Samstag 10.10.2020 in Fürth
+## Samstag 10.10.2020 - Online
 
 ## Worum geht es?
 
