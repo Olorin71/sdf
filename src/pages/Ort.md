@@ -4,4 +4,4 @@
 
 Der SoCraTes Day Franken findet am Samstag den 10.10.2020 aus gegebenen Anlass komplett online statt.
 
-Die zur Teilnahme notwendigen Links werden noch bekannt gegeben.
+Die Links zur Online-Veranstaltung werden den Teilnehmern wenige Tage vor dem Termin bekannt gegeben.
