@@ -17,8 +17,14 @@ Seht bei solchen Sessions aber genügend Zeit für Fragen und Interaktion vor.
 - Wer ein Thema vorschlägt, muss nicht Experte sein. Es reicht mehr darüber wissen zu wollen.
 Häufig finden sich dann Leute zur Session ein, die viel zum Thema beitragen können.
 
-**Achtung, diesmal findet die Veranstaltung komplett online statt - Zettel und Räume werden also virtuell sein.**
+**Achtung!**
+
+- **Diesmal findet der SoCraTes Day Franken komplett online statt.**
+- **"Zettel" und "Räume" werden virtuell sein.**
+- **Pausenzeiten sind explizit vorgesehen.**
+- **Es wird auch Gelegenheiten zum informellen Austausch geben**
 
 ## Zeitplan
 
-Der Zeitplan wird noch bekannt gegeben.
+Wir planen mit einem Zeitrahmen von 9 bis 17 Uhr.
+Der genaue Zeitplan wird noch bekannt gegeben.
