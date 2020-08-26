@@ -1,6 +1,6 @@
 # SoCraTes Day Franken
 
-## Samstag 10.10.2020 - Online
+## Samstag 17.10.2020 - Online im Rahmen der 3. <a href="https://wueww.de/" target="_blank">Würzburg Web Week</a>
 
 ## Worum geht es?
 
