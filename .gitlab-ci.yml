@@ -1,0 +1,20 @@
+stages:
+  - Deploy
+
+dependencies:
+  stage: Deploy
+  image: 'node:lts'
+  before_script:
+    - 'which ssh-agent || ( apt-get update -qy && apt-get install openssh-client -qqy )'
+    - eval `ssh-agent -s`
+    - echo "${SSH_PRIVATE}" | tr -d '\r' | ssh-add - > /dev/null # add ssh key
+    - mkdir -p ~/.ssh
+    - chmod 700 ~/.ssh
+    - echo "$SSH_PUBLIC" >> ~/.ssh/id_rsa.pub
+    - '[[ -f /.dockerenv ]] && echo -e "Host *\n\tStrictHostKeyChecking no\n\n" > ~/.ssh/config'
+  script:
+    - npm i
+    - npm run build
+    - scp -r ./public/* ${REMOTE_USER}@${REMOTE_SERVER}:${REMOTE_FOLDER}
+  only:
+    - master
