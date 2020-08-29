@@ -3,7 +3,7 @@ stages:
 
 dependencies:
   stage: Deploy
-  image: 'node:lts'
+  image: 'node:10'
   before_script:
     - 'which ssh-agent || ( apt-get update -qy && apt-get install openssh-client -qqy )'
     - eval `ssh-agent -s`
