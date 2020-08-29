@@ -14,7 +14,7 @@ dependencies:
     - '[[ -f /.dockerenv ]] && echo -e "Host *\n\tStrictHostKeyChecking no\n\n" > ~/.ssh/config'
   script:
     - npm i
-    - npm run build
-    - scp -r ./public/* ${REMOTE_USER}@${REMOTE_SERVER}:${REMOTE_FOLDER}
+    - npm run build:prod
+    - scp -r ./dist/socrates-franken/* ${REMOTE_USER}@${REMOTE_SERVER}:${REMOTE_FOLDER}
   only:
     - master
