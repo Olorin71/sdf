@@ -1,6 +1,6 @@
 {
   "name": "socrates-franken",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "scripts": {
     "cz": "git add . && git cz",
     "ng": "ng",
@@ -56,5 +56,12 @@
     "hooks": {
       "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
     }
-  }
+  },
+  "contributors": [
+    "Thorsten Brunzendorf <thorsten.brunzendorf@codecentric.de>",
+    "Alexandre Soler Sanandres <alexandre@soler-sanandres.net>",
+    "thbrunzendorf <thbrunzendorf@aol.com>",
+    "René Füger <github@renefueger.de>",
+    "Leon Knabel <leon@knabel.de>"
+  ]
 }
