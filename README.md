@@ -34,6 +34,12 @@ Run `npm run build:prod` to build the project in production mode. The build arti
 
 ### Release
 
+After all changes are merged into `master` run:
+- npm run release
+- push with tags (git push --tags origin master)
+
+The ci will create the image container push to registry and connect the docker server to update the socrates-day-franken service.
+
 ## Pages
 
 All `.md`-files referenced in the [pages json](./src/pages/pages.json) with `"isDefault": false` will be available in the menu and displayed as a page.
