@@ -1,20 +1,48 @@
-stages:
-  - Deploy
 
-dependencies:
-  stage: Deploy
-  image: 'node:10'
-  before_script:
-    - 'which ssh-agent || ( apt-get update -qy && apt-get install openssh-client -qqy )'
-    - eval `ssh-agent -s`
-    - echo "${SSH_PRIVATE}" | tr -d '\r' | ssh-add - > /dev/null # add ssh key
-    - mkdir -p ~/.ssh
-    - chmod 700 ~/.ssh
-    - echo "$SSH_PUBLIC" >> ~/.ssh/id_rsa.pub
-    - '[[ -f /.dockerenv ]] && echo -e "Host *\n\tStrictHostKeyChecking no\n\n" > ~/.ssh/config'
-  script:
-    - npm i
-    - npm run build:prod
-    - scp -r ./dist/socrates-franken/* ${REMOTE_USER}@${REMOTE_SERVER}:${REMOTE_FOLDER}
-  only:
-    - master
+stages:
+    - build
+    - docker
+    - deploy
+
+build:
+    image: node:lts
+    stage: build
+    script:
+        - npm install
+        - npm run build:prod
+    artifacts:
+        paths:
+            - public/
+        expire_in: 1 day
+
+create-image:
+    stage: docker
+    image:
+        name: gcr.io/kaniko-project/executor:debug
+        entrypoint: [ "" ]
+    needs:
+        - job: build
+          artifacts: true
+    script:
+        - mkdir -p /kaniko/.docker
+        - export PACKAGE_VERSION=$(sed -nE 's/^\s*"version":\s"(.*?)",$/\1/p' package.json)
+        - echo $REGISTRY_CONFIG > /kaniko/.docker/config.json
+        - /kaniko/executor --context $CI_PROJECT_DIR --dockerfile $CI_PROJECT_DIR/Dockerfile --destination $REGISTRY_URL/$CI_PROJECT_NAME:$PACKAGE_VERSION --destination $REGISTRY_URL/$CI_PROJECT_NAME:latest --verbosity debug
+    only:
+        - tags
+
+deployment:
+    stage: deploy
+    image: docker:19.03.1
+    needs:
+        - create-image
+    before_script:
+        - mkdir -p ~/.docker
+        - cp $CA_CERT ~/.docker/ca.pem
+        - cp $DOCKER_CERT ~/.docker/cert.pem
+        - cp $DOCKER_PRIVATE ~/.docker/key.pem
+        - export DOCKER_HOST=tcp://$DOCKER_SRV DOCKER_TLS_VERIFY=1
+    script:
+        - docker service update --force $SERVICE_NAME
+    only:
+        - tags
