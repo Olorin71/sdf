@@ -1,40 +1,61 @@
 {
-	"name": "socrates-franken",
-	"version": "0.2.0",
-	"scripts": {
-		"ng": "ng",
-		"start": "ng serve",
-		"build": "ng build",
-		"build:prod": "ng build --prod"
-	},
-	"private": true,
-	"dependencies": {
-		"@angular/animations": "^6.0.3",
-		"@angular/cdk": "^6.2.1",
-		"@angular/common": "^6.0.3",
-		"@angular/compiler": "^6.0.3",
-		"@angular/core": "^6.0.3",
-		"@angular/flex-layout": "^6.0.0-beta.16",
-		"@angular/forms": "^6.0.3",
-		"@angular/http": "^6.0.3",
-		"@angular/material": "^6.0.3",
-		"@angular/platform-browser": "^6.0.3",
-		"@angular/platform-browser-dynamic": "^6.0.3",
-		"@angular/router": "^6.0.3",
-		"core-js": "^2.5.4",
-		"ngx-md": "^6.0.0",
-		"rxjs": "^6.0.0",
-		"zone.js": "^0.8.26"
-	},
-	"devDependencies": {
-		"@angular/compiler-cli": "^6.0.3",
-		"@angular-devkit/build-angular": "~0.6.8",
-		"typescript": "~2.7.2",
-		"@angular/cli": "~6.0.8",
-		"@angular/language-service": "^6.0.3",
-		"@types/node": "~8.9.4",
-		"codelyzer": "~4.2.1",
-		"ts-node": "~5.0.1",
-		"tslint": "~5.9.1"
-	}
+  "name": "socrates-franken",
+  "version": "0.2.0",
+  "scripts": {
+    "cz": "git add . && git cz",
+    "ng": "ng",
+    "start": "ng serve",
+    "build": "ng build",
+    "build:prod": "ng build --prod",
+    "prerelease": "git checkout master && git pull origin master && npm i && run-s validate && git-authors-cli && git add .",
+    "release": "standard-version",
+    "validate": "run-s test prettier:check"
+  },
+  "dependencies": {
+    "@angular/animations": "^10.1.1",
+    "@angular/cdk": "^10.2.0",
+    "@angular/common": "^10.1.1",
+    "@angular/compiler": "^10.1.1",
+    "@angular/core": "^10.1.1",
+    "@angular/flex-layout": "^10.0.0-beta.32",
+    "@angular/forms": "^10.1.1",
+    "@angular/http": "^7.2.16",
+    "@angular/material": "^10.2.0",
+    "@angular/platform-browser": "^10.1.1",
+    "@angular/platform-browser-dynamic": "^10.1.1",
+    "@angular/router": "^10.1.1",
+    "core-js": "^3.6.5",
+    "ngx-md": "^8.1.6",
+    "rxjs": "^6.6.3",
+    "rxjs-tslint": "^0.1.8",
+    "zone.js": "^0.11.1"
+  },
+  "devDependencies": {
+    "@angular/compiler-cli": "^10.1.1",
+    "@angular-devkit/build-angular": "^0.1001.1",
+    "@commitlint/cli": "^11.0.0",
+    "@commitlint/config-conventional": "^11.0.0",
+    "typescript": "~4.0.2",
+    "@angular/cli": "~10.1.1",
+    "@angular/language-service": "^10.1.1",
+    "@types/node": "~14.10.1",
+    "commitizen": "^4.2.1",
+    "codelyzer": "~6.0.0",
+    "git-authors-cli": "^1.0.28",
+    "husky": "^4.3.0",
+    "npm-run-all": "^4.1.5",
+    "ts-node": "~9.0.0",
+    "tslint": "~6.1.3",
+    "standard-version": "^9.0.0"
+  },
+  "config": {
+    "commitizen": {
+      "path": "cz-conventional-changelog"
+    }
+  },
+  "husky": {
+    "hooks": {
+      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
+    }
+  }
 }

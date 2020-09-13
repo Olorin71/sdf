@@ -4,6 +4,19 @@
 
 After checkout run `npm ci` to get all dependencies without generating a new [package-lock json](./package-lock.json).
 
+##Development
+
+### Commits
+We use [conventional commit format](https://conventionalcommits.org/) for commit messages.
+
+When you want to commit changes:
+
+- Format your commit message to meet the conventional commit format.
+- use git cz after staging your changes to run commitizen.
+- use npm run cz to stage all changes and run commitizen.
+
+Commit messages that not meet the conventions will be rejected.
+
 ## Development server
 
 Run `npm start` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
@@ -18,6 +31,8 @@ Run `npm run build` to build the project in development mode. The build artifact
 ### Production
 
 Run `npm run build:prod` to build the project in production mode. The build artifacts will be stored in the `dist/` directory.
+
+### Release
 
 ## Pages
 
