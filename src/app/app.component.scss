@@ -48,7 +48,7 @@
 			border-bottom: 1px solid $primary-font-color;
 		}
 		.mat-button {
-			/deep/ span {
+			::ng-deep span {
 				color: $accent-font-color;
 			}
 		}

@@ -25,11 +25,11 @@ export class MarkdownComponent implements OnInit {
 
 	ngOnInit(): void {
 		this.markdown$ = this.route.params.pipe(
-			map(params => params['page']),
+			map(params  => params['page']),
 			switchMap(name => this.pagesService.getPage(name)),
 			tap(page => this.checkIfExists(page)),
 			filter(Boolean),
-			switchMap(page => this.pagesService.getPageMarkDown(page)));
+			switchMap((page: Page) => this.pagesService.getPageMarkDown(page)));
 	}
 
 	private checkIfExists(obj: any) {

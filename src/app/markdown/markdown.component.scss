@@ -1,14 +1,14 @@
 @import "../variables";
 
 markdown {
-	/deep/ a {
+	::ng-deep a {
 		text-decoration: none;
 
 		&:hover {
 			text-decoration: underline;
 		}
 	}
-	/deep/ markdown > *:last-child {
+	::ng-deep markdown > *:last-child {
 		padding-bottom: 10%;
 	}
 
@@ -26,7 +26,7 @@ app-sponsors {
 		markdown {
 			height: 85%;
 			overflow: auto;
-			/deep/ img {
+			::ng-deep img {
 				max-width: 100%
 			}
 		}
@@ -39,7 +39,7 @@ app-sponsors {
 	&.static {
 		markdown {
 			width: 100%;
-			/deep/ img {
+			::ng-deep img {
 				max-width: 45%
 			}
 		}
