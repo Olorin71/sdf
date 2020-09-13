@@ -7,9 +7,8 @@
     "start": "ng serve",
     "build": "ng build",
     "build:prod": "ng build --prod",
-    "prerelease": "git checkout master && git pull origin master && npm i && run-s validate && git-authors-cli && git add .",
-    "release": "standard-version",
-    "validate": "run-s test prettier:check"
+    "prerelease": "git checkout master && git pull origin master && npm i && git-authors-cli && git add .",
+    "release": "standard-version"
   },
   "dependencies": {
     "@angular/animations": "^10.1.1",
