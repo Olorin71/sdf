@@ -27,7 +27,7 @@ create-image:
         - mkdir -p /kaniko/.docker
         - export PACKAGE_VERSION=$(sed -nE 's/^\s*"version":\s"(.*?)",$/\1/p' package.json)
         - echo $REGISTRY_CONFIG > /kaniko/.docker/config.json
-        - /kaniko/executor --context $CI_PROJECT_DIR --dockerfile $CI_PROJECT_DIR/Dockerfile --destination $REGISTRY_URL/sdf_$CI_PROJECT_NAME:$PACKAGE_VERSION --destination $REGISTRY_URL/$CI_PROJECT_NAME:latest
+        - /kaniko/executor --context $CI_PROJECT_DIR --dockerfile $CI_PROJECT_DIR/Dockerfile --destination $REGISTRY_URL/sdf_$CI_PROJECT_NAME:$PACKAGE_VERSION --destination $REGISTRY_URL/sdf_$CI_PROJECT_NAME:latest
     only:
         - tags
 
