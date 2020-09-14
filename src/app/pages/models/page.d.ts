@@ -1,5 +1,5 @@
 export interface Page {
-	name: string;
-	file: string;
-	isDefault: boolean;
+  name: string;
+  file: string;
+  isDefault: boolean;
 }

@@ -8,28 +8,28 @@ import {SponsorsModule} from '../shared/sponsors/sponsors.module';
 import {FlexLayoutModule} from '@angular/flex-layout';
 
 const markdownRoutes: Array<Route> = [
-	{
-		path: ':page',
-		component: MarkdownComponent
-	},
-	{
-		path: '**',
-		component: MarkdownComponent
-	}
+  {
+    path: ':page',
+    component: MarkdownComponent
+  },
+  {
+    path: '**',
+    component: MarkdownComponent
+  }
 ];
 
 @NgModule({
-	imports: [
-		CommonModule,
-		HttpClientModule,
-		RouterModule.forChild(markdownRoutes),
-		NgxMdModule.forRoot(),
-		FlexLayoutModule,
-		SponsorsModule
-	],
-	declarations: [
-		MarkdownComponent
-	]
+  imports: [
+    CommonModule,
+    HttpClientModule,
+    RouterModule.forChild(markdownRoutes),
+    NgxMdModule.forRoot(),
+    FlexLayoutModule,
+    SponsorsModule
+  ],
+  declarations: [
+    MarkdownComponent
+  ]
 })
 export class MarkdownModule {
 }

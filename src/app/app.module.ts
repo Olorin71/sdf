@@ -15,24 +15,24 @@ import {SponsorsModule} from './shared/sponsors/sponsors.module';
 
 
 @NgModule({
-	declarations: [
-		AppComponent
-	],
-	imports: [
-		BrowserModule,
-		BrowserAnimationsModule,
-		MatButtonModule,
-		MatToolbarModule,
-		MatSidenavModule,
-		FlexLayoutModule,
-		HttpClientModule,
-		RouterModule.forRoot(routes),
-		SponsorsModule
-	],
-	providers: [
-		{provide: RouteReuseStrategy, useClass: CustomReuseStrategy}
-	],
-	bootstrap: [AppComponent]
+  declarations: [
+    AppComponent
+  ],
+  imports: [
+    BrowserModule,
+    BrowserAnimationsModule,
+    MatButtonModule,
+    MatToolbarModule,
+    MatSidenavModule,
+    FlexLayoutModule,
+    HttpClientModule,
+    RouterModule.forRoot(routes),
+    SponsorsModule
+  ],
+  providers: [
+    {provide: RouteReuseStrategy, useClass: CustomReuseStrategy}
+  ],
+  bootstrap: [AppComponent]
 })
 export class AppModule {
 }

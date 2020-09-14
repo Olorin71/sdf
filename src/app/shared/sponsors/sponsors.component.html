@@ -1,3 +1,3 @@
-<div fxLayout="row wrap" fxLayout.gt-sm="column" [ngClass.gt-sm]="{ 'static': true }">
-	<app-sponsor *ngFor="let sponsor of sponsors$ | async" [sponsor]="sponsor"></app-sponsor>
+<div [ngClass.gt-sm]="{ 'static': true }" fxLayout="row wrap" fxLayout.gt-sm="column">
+  <app-sponsor *ngFor="let sponsor of sponsors$ | async" [sponsor]="sponsor"></app-sponsor>
 </div>

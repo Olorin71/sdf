@@ -5,17 +5,17 @@ import {SponsorComponent} from './sponsor/sponsor.component';
 import {FlexLayoutModule} from '@angular/flex-layout';
 
 @NgModule({
-	imports: [
-		CommonModule,
-		FlexLayoutModule
-	],
-	declarations: [
-		SponsorsComponent,
-		SponsorComponent
-	],
-	exports: [
-		SponsorsComponent
-	]
+  imports: [
+    CommonModule,
+    FlexLayoutModule
+  ],
+  declarations: [
+    SponsorsComponent,
+    SponsorComponent
+  ],
+  exports: [
+    SponsorsComponent
+  ]
 })
 export class SponsorsModule {
 }
