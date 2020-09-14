@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.3.14](https://gitlab.com/asoler-www/socrates-franken-day/website/compare/v0.3.13...v0.3.14) (2020-09-14)
+
+
+### Bug Fixes
+
+* **app.routes.ts:** correct import path ([ddbc43e](https://gitlab.com/asoler-www/socrates-franken-day/website/commit/ddbc43ed3818a8e38b949864d96e68bdfe8dbfad))
+
 ### [0.3.13](https://gitlab.com/asoler-www/socrates-franken-day/website/compare/v0.3.12...v0.3.13) (2020-09-14)
 
 
