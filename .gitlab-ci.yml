@@ -23,7 +23,7 @@ create-image:
     dependencies:
       - build
     script:
-      - ls -la /dist
+      - ls -la dist
       - mkdir -p /kaniko/.docker
       - export PACKAGE_VERSION=$(sed -nE 's/^\s*"version":\s"(.*?)",$/\1/p' package.json)
       - echo $REGISTRY_CONFIG > /kaniko/.docker/config.json
