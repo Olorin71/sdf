@@ -20,11 +20,9 @@ create-image:
     image:
         name: gcr.io/kaniko-project/executor:debug
         entrypoint: [ "" ]
-    needs:
-        - job: build
-          artifacts: true
+    dependencies:
+      - build
     script:
-      - npm run build:prod
       - ls -la /dist
       - mkdir -p /kaniko/.docker
       - export PACKAGE_VERSION=$(sed -nE 's/^\s*"version":\s"(.*?)",$/\1/p' package.json)
