@@ -26,7 +26,7 @@ import {SponsorsModule} from './shared/sponsors/sponsors.module';
     MatSidenavModule,
     FlexLayoutModule,
     HttpClientModule,
-    RouterModule.forRoot(routes),
+    RouterModule.forRoot(routes, { relativeLinkResolution: 'legacy' }),
     SponsorsModule
   ],
   providers: [
