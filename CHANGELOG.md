@@ -2,6 +2,8 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.3.16](https://gitlab.com/asoler-www/socrates-franken-day/website/compare/v0.3.15...v0.3.16) (2021-06-09)
+
 ### [0.3.15](https://gitlab.com/asoler-www/socrates-franken-day/website/compare/v0.3.14...v0.3.15) (2020-09-14)
 
 ### [0.3.14](https://gitlab.com/asoler-www/socrates-franken-day/website/compare/v0.3.13...v0.3.14) (2020-09-14)
