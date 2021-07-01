@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.3.17](https://gitlab.com/asoler-www/socrates-franken-day/website/compare/v0.3.16...v0.3.17) (2021-07-01)
+
+
+### Features
+
+* add info on 2020 edition to retro page ([db9d7e3](https://gitlab.com/asoler-www/socrates-franken-day/website/commit/db9d7e37cd57d251d8c6df49bab452aba1920cfa))
+
 ### [0.3.16](https://gitlab.com/asoler-www/socrates-franken-day/website/compare/v0.3.15...v0.3.16) (2021-06-09)
 
 ### [0.3.15](https://gitlab.com/asoler-www/socrates-franken-day/website/compare/v0.3.14...v0.3.15) (2020-09-14)
