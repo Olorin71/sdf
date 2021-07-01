@@ -1,5 +1,14 @@
 # Rückblick
 
+## SoCraTes Day Franken 2020
+
+Der SoCraTes Day Franken 2020 hat stattgefunden am Samstag den 17.10.2020
+online im Rahmen der 3. <a href="https://wueww.de/" target="_blank">Würzburg Web Week</a>
+
+## Sessions 2020
+
+<img src="/assets/sdf2021-sessions.png">
+
 ## SoCraTes Day Franken 2019
 
 Der SoCraTes Day Franken 2019 hat stattgefunden am Samstag den 28.09.2019 in den Räumen der <a href="https://www.datev.de/" target="_blank">DATEV</a> in Nürnberg.
@@ -36,8 +45,6 @@ Der SoCraTes Day Franken 2019 hat stattgefunden am Samstag den 28.09.2019 in den
 ### <a href="//www.de.paessler.com" target="_blank">Paessler AG</a>
 
 ### <a href="//www.pentasys.de" target="_blank">PENTASYS AG</a>
-
-### <a href="//www.redheads.de" target="_blank">Redheads Ltd.</a>
 
 ## SoCraTes Day Franken 2018
 
