@@ -1,6 +1,8 @@
 # SoCraTes Day Franken
 
-## Samstag 17.10.2020 - Online im Rahmen der 3. <a href="https://wueww.de/" target="_blank">Würzburg Web Week</a>
+## Samstag 09.10.2021 - Online - Save the date!
+
+Dieses Jahr werden wir uns noch einmal online treffen.
 
 ## Worum geht es?
 
@@ -24,5 +26,4 @@ der <a href="https://www.softwerkskammer.org/groups/nuernberg" target="_blank">S
 
 ## Tickets
 
-Die Anmeldung für den SoCraTes Day Franken läuft
-über <a href="https://ti.to/SoCraTesDayFranken/2020" target="_blank">Tito</a>.
+Die Anmeldung für den SoCraTes Day Franken ist noch nicht freigeschaltet.

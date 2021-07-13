@@ -1,0 +1,67 @@
+[
+  {
+    "name": "DATEV eG",
+    "image": "/assets/datevlogo_2x.png",
+    "link": "//www.datev.de"
+  },
+  {
+    "name": "agile elevation",
+    "image": "/assets/agile-elevation-logo.svg",
+    "link": "http://www.agile-elevation.de"
+  },
+  {
+    "name": "BNP Paribas S.A. Consorsbank",
+    "image": "/assets/Consorsbank-Logo.jpg",
+    "link": "//www.consorsbank.de"
+  },
+  {
+    "name": "BRANDAD Systems AG",
+    "image": "/assets/brandad-systems_2x.png",
+    "link": "//www.brandad-systems.de"
+  },
+  {
+    "name": "codecentric AG",
+    "image": "/assets/cc_big-sign_RGB_black.png",
+    "link": "//www.codecentric.de"
+  },
+  {
+    "name": "Hetzner Online GmbH",
+    "image": "/assets/logo-hetzner.svg",
+    "link": "//www.hetzner.de"
+  },
+  {
+    "name": "innoQ Deutschland GmbH",
+    "image": "/assets/logo-innoq-blue-red-rgb.svg",
+    "link": "//www.innoq.com"
+  },
+  {
+    "name": "ISO Gruppe",
+    "image": "/assets/logo-iso-gruppe.svg",
+    "link": "//www.iso-gruppe.com"
+  },
+  {
+    "name": "MATHEMA Software GmbH",
+    "image": "/assets/mathema_logo.jpg",
+    "link": "//www.mathema.de"
+  },
+  {
+    "name": "Method Park Holding AG",
+    "image": "/assets/method-park-logo.png",
+    "link": "//www.methodpark.de"
+  },
+  {
+    "name": "Paessler AG",
+    "image": "/assets/paessler-logo.svg",
+    "link": "//www.de.paessler.com"
+  },
+  {
+    "name": "PENTASYS AG",
+    "image": "/assets/pentasys-logo.svg",
+    "link": "//www.pentasys.de"
+  },
+  {
+    "name": "Redheads Ltd.",
+    "image": "/assets/Redheads_Logo.png",
+    "link": "//www.redheads.de"
+  }
+]
