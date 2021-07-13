@@ -1,9 +1,7 @@
 # Veranstaltungsort
 
-## Online im Rahmen der 3. <a href="https://wueww.de/" target="_blank">Würzburg Web Week</a>
+## Online
 
-Der SoCraTes Day Franken findet am Samstag den 17.10.2020 aus gegebenen Anlass komplett online statt.
+Der SoCraTes Day Franken findet statt am Samstag den 09.10.2021 - dieses Jahr noch einmal komplett virtuell.
 
-In diesem Jahr sind wir virtuell bei der 3. <a href="https://wueww.de/" target="_blank">Würzburg Web Week</a> zu Gast.
-
-Die Links zur Online-Veranstaltung werden den Teilnehmern wenige Tage vor dem Termin bekannt gegeben.
+Die Links zur Online-Veranstaltung werden den Teilnehmer:innen wenige Tage vor dem Termin bekannt gegeben.
