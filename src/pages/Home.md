@@ -1,6 +1,6 @@
 # SoCraTes Day Franken
 
-## Samstag 09.10.2021 - Online - Save the date!
+## Samstag 09.10.2021 - Online
 
 Dieses Jahr werden wir uns noch einmal online treffen.
 
@@ -23,7 +23,9 @@ Das kann stattfinden in Form von
 
 Der SoCraTes Day Franken wird organisiert von Mitgliedern
 der <a href="https://www.softwerkskammer.org/groups/nuernberg" target="_blank">Softwerkskammer Nürnberg</a>.
+Unsere Events werden auch über unsere <a href="https://www.meetup.com/de-DE/softwerkskammer-nuernberg/" target="_blank">Meetup-Gruppe</a> angekündigt.
 
 ## Tickets
 
-Die Anmeldung für den SoCraTes Day Franken ist noch nicht freigeschaltet.
+Die Anmeldung für den SoCraTes Day Franken läuft
+über <a href="https://ti.to/SoCraTesDayFranken/2021" target="_blank">Tito</a>.
