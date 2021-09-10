@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.3.20](https://gitlab.com/asoler-www/socrates-franken-day/website/compare/v0.3.19...v0.3.20) (2021-09-10)
+
+
+### Bug Fixes
+
+* remove DATEV from sponsors ([4fe5224](https://gitlab.com/asoler-www/socrates-franken-day/website/commit/4fe522443e43ad7c3bcd380419408673ce0ee767))
+
 ### [0.3.19](https://gitlab.com/asoler-www/socrates-franken-day/website/compare/v0.3.18...v0.3.19) (2021-09-05)
 
 
