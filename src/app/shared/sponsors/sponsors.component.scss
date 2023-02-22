@@ -34,8 +34,8 @@ div {
     }
 
     app-sponsor {
-      width: (100vw / 4);
-      max-width: (100vw / 4);
+      width: calc(100vw / 4);
+      max-width: calc(100vw / 4);
 
       &:first-child {
         margin-top: 0;

@@ -1,6 +1,6 @@
 import {NgModule} from '@angular/core';
 import {MarkdownComponent} from './markdown.component';
-import {NgxMdModule} from 'ngx-md';
+import {MarkdownModule as NgxMarkdownModule} from 'ngx-markdown';
 import {CommonModule} from '@angular/common';
 import {Route, RouterModule} from '@angular/router';
 import {HttpClientModule} from '@angular/common/http';
@@ -23,7 +23,7 @@ const markdownRoutes: Array<Route> = [
     CommonModule,
     HttpClientModule,
     RouterModule.forChild(markdownRoutes),
-    NgxMdModule.forRoot(),
+    NgxMarkdownModule.forRoot(),
     FlexLayoutModule,
     SponsorsModule
   ],
