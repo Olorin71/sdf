@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.3.21](https://gitlab.com/asoler-www/socrates-franken-day/website/compare/v0.3.20...v0.3.21) (2023-02-22)
+
+
+### Features
+
+* update to Angular 15 and migrate from ngx-md to ngx-markdown ([41f08b3](https://gitlab.com/asoler-www/socrates-franken-day/website/commit/41f08b3bd58dd372626ee56282b8d3004080eeea))
+
 ### [0.3.20](https://gitlab.com/asoler-www/socrates-franken-day/website/compare/v0.3.19...v0.3.20) (2021-09-10)
 
 
