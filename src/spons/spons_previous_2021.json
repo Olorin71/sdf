@@ -1,0 +1,17 @@
+[
+  {
+    "name": "codecentric AG",
+    "image": "/assets/cc_big-sign_RGB_black.png",
+    "link": "//www.codecentric.de"
+  },
+  {
+    "name": "MATHEMA Software GmbH",
+    "image": "/assets/mathema-logo.svg",
+    "link": "//www.mathema.de"
+  },
+  {
+    "name": "Method Park Holding AG",
+    "image": "/assets/method-park-logo.png",
+    "link": "//www.methodpark.de"
+  }
+]

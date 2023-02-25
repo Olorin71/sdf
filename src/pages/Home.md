@@ -1,8 +1,6 @@
-# SoCraTes Day Franken
+# 5. SoCraTes Day Franken
 
-## Samstag 09.10.2021 - Online
-
-Dieses Jahr werden wir uns noch einmal online treffen.
+## Samstag 24.06.2023 in Nürnberg
 
 ## Worum geht es?
 
@@ -27,5 +25,5 @@ Unsere Events werden auch über unsere <a href="https://www.meetup.com/de-DE/sof
 
 ## Tickets
 
-Die Anmeldung für den SoCraTes Day Franken läuft
-über <a href="https://ti.to/SoCraTesDayFranken/2021" target="_blank">Tito</a>.
+Die Anmeldung für den SoCraTes Day Franken ist noch nicht freigeschaltet und läuft
+über <a href="https://ti.to/SoCraTesDayFranken/2023" target="_blank">Tito</a>.
