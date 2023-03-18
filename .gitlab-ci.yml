@@ -31,18 +31,18 @@ create-image:
     only:
         - tags
 
-deployment:
-    stage: deploy
-    image: docker:19.03.1
-    needs:
-        - create-image
-    before_script:
-        - mkdir -p ~/.docker
-        - cp $CA_CERT ~/.docker/ca.pem
-        - cp $DOCKER_CERT ~/.docker/cert.pem
-        - cp $DOCKER_PRIVATE ~/.docker/key.pem
-        - export DOCKER_HOST=tcp://$DOCKER_SRV DOCKER_TLS_VERIFY=1
-    script:
-        - docker service update --force $SERVICE_NAME
-    only:
-        - tags
+#deployment:
+#    stage: deploy
+#    image: docker:19.03.1
+#    needs:
+#        - create-image
+#    before_script:
+#        - mkdir -p ~/.docker
+#        - cp $CA_CERT ~/.docker/ca.pem
+#        - cp $DOCKER_CERT ~/.docker/cert.pem
+#        - cp $DOCKER_PRIVATE ~/.docker/key.pem
+#        - export DOCKER_HOST=tcp://$DOCKER_SRV DOCKER_TLS_VERIFY=1
+#    script:
+#        - docker service update --force $SERVICE_NAME
+#    only:
+#        - tags
