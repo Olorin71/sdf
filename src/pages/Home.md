@@ -25,5 +25,14 @@ Unsere Events werden auch über unsere <a href="https://www.meetup.com/de-DE/sof
 
 ## Tickets
 
-Die Anmeldung für den SoCraTes Day Franken ist noch nicht freigeschaltet und läuft
-über <a href="https://ti.to/SoCraTesDayFranken/2023" target="_blank">Tito</a>.
+Die Tickets für dieses Community Event können wir dank unserer Sponsoren für € 20,- abgeben, 
+die als Eigenbeteiligung an der Verpflegung zu verstehen sind.
+
+Ihr könnt Euch die Teilnahme sichern durch eine 
+<b><a href="https://ti.to/SoCraTesDayFranken/2023" target="_blank">Anmeldung über Tito</a></b>.
+
+Wer sich das nicht leisten kann, 
+mag uns gerne <a href="mailto:info@socrates-day-franken.de" target="_blank">kontaktieren</a>
+und wir finden eine Lösung.
+
+<br/>
