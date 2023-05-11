@@ -24,8 +24,8 @@ der <a href="https://www.softwerkskammer.org/groups/nuernberg" target="_blank">S
 Unsere Events werden auch über unsere <a href="https://www.meetup.com/de-DE/softwerkskammer-nuernberg/" target="_blank">Meetup-Gruppe</a> angekündigt.
 
 ## Tickets
-Damit wir die Kosten der Veranstaltung abdecken können müssen wir leider die Tickets bepreisen. 
-Dank unserer Sponsoren sind die Kosten für euch sehr überschaubar und bezifern sich auf € 20,- pro Ticket (Sponsoren-Tickets natürlich ausgenommen). 
+Damit wir die Kosten der Veranstaltung abdecken können, müssen wir leider die Tickets bepreisen. 
+Dank unserer Sponsoren sind die Kosten für Euch sehr überschaubar und beziffern sich auf € 20,- pro Ticket.
 
 Ihr könnt Euch die Teilnahme sichern durch eine 
 <b><a href="https://ti.to/SoCraTesDayFranken/2023" target="_blank">Anmeldung über Tito</a></b>.
