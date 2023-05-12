@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.3.26](https://gitlab.com/asoler-www/socrates-franken-day/website/compare/v0.3.25...v0.3.26) (2023-05-12)
+
+
+### Features
+
+* add new logo for sponsor Hetzner ([b147ace](https://gitlab.com/asoler-www/socrates-franken-day/website/commit/b147aceddfe75d31f833ecc33448685baa295929))
+
 ### [0.3.25](https://gitlab.com/asoler-www/socrates-franken-day/website/compare/v0.3.24...v0.3.25) (2023-05-11)
 
 ### [0.3.24](https://gitlab.com/asoler-www/socrates-franken-day/website/compare/v0.3.23...v0.3.24) (2023-05-10)
