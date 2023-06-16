@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.3.28](https://gitlab.com/asoler-www/socrates-franken-day/website/compare/v0.3.27...v0.3.28) (2023-06-16)
+
+
+### Features
+
+* add timetable for 2023 ([0896382](https://gitlab.com/asoler-www/socrates-franken-day/website/commit/0896382407eba94a0484c932e91cbef8faa5a2c3))
+
 ### [0.3.27](https://gitlab.com/asoler-www/socrates-franken-day/website/compare/v0.3.26...v0.3.27) (2023-06-16)
 
 ### [0.3.26](https://gitlab.com/asoler-www/socrates-franken-day/website/compare/v0.3.25...v0.3.26) (2023-05-12)
