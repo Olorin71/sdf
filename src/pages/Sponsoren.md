@@ -8,7 +8,7 @@
 
 ### <a href="//www.hetzner.de" target="_blank">Hetzner Online GmbH</a>
 
-### <a href="//mathema.de" target="_blank">MATHEMA Software GmbH</a>
+### <a href="//mathema.de" target="_blank">MATHEMA GmbH</a>
 
 ### <a href="//www.paessler.com/de" target="_blank">Paessler AG</a>
 
