@@ -19,5 +19,10 @@ Häufig finden sich dann Leute zur Session ein, die viel zum Thema beitragen kö
 
 ## Zeitplan
 
-Wir planen mit einem Zeitrahmen von 9 bis 17 Uhr.
-Der genaue Zeitplan wird noch bekannt gegeben.
+- 08:30 - 09:00 Eintreffen der Teilnehmenden
+- 09:00 - 10:00 Begrüßung und Session Marketplace
+- 10:00 - 12:00 Session Slots 1 und 2
+- 12:00 - 13:00 Mittagessen
+- 13:00 - 16:00 Session Slots 3, 4 und 5
+- 16:00 - 16:30 Retrospektive und offizieller Abschluss
+- anschließend optionaler Ausklang
