@@ -1,20 +1,20 @@
 # Veranstaltungsort
 
-## codecentric Nürnberg
+## TeamBank Nürnberg
 
-Der SoCraTes Day Franken findet am Samstag den 24.06.2023 in den Räumen von codecentric in Nürnberg statt.
+Der SoCraTes Day Franken findet am Samstag den 29.06.2024 in den Räumen der TeamBank in Nürnberg statt.
 
-<a href="https://www.codecentric.de/" target="_blank">Webseite von codecentric</a>
+<a href="https://www.teambank.de/" target="_blank">Webseite der TeamBank</a>
 
 ### Anfahrt
 
-Adresse: **codecentric AG, Sophie-Germain-Str. 12, 90443 Nürnberg**
+Adresse: **TeamBank AG, Beuthener Str. 25, 90471 Nürnberg**
 
-<a href="https://www.google.de/maps/place/codecentric+AG/@49.4431435,11.0676894,17z/data=!3m1!4b1!4m6!3m5!1s0x479f5765ee61e2d3:0xfdea631df67f47ee!8m2!3d49.4431435!4d11.0676894!16s%2Fg%2F11g_x661b2?hl=de" target="_blank">codecentric Nürnberg auf Google Maps</a>
+<a href="https://www.google.com/maps/place/TeamBank+AG/@49.4294204,11.1282173,17z/data=!3m1!4b1!4m6!3m5!1s0x479f57bd22bc700b:0xeeac1fe6be100673!8m2!3d49.4294169!4d11.1307976!16s%2Fg%2F1tffhs5_?entry=ttu" target="_blank">TeamBank Nürnberg auf Google Maps</a>
 
 #### Mit dem Zug
 
-Der Veranstaltungsort liegt direkt am S-Bahnhof Steinbühl in Nürnberg, eine Station vom Hauptbahnhof entfernt.
+Der Veranstaltungsort liegt direkt am S-Bahnhof Frankenstadion in Nürnberg.
 
 #### Mit dem Auto
 
