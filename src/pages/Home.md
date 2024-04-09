@@ -1,6 +1,6 @@
-# 5. SoCraTes Day Franken
+# 6. SoCraTes Day Franken
 
-## Samstag 24.06.2023 in Nürnberg
+## Samstag 29.06.2024 in Nürnberg
 
 ## Worum geht es?
 
@@ -28,7 +28,7 @@ Damit wir die Kosten der Veranstaltung abdecken können, müssen wir leider die 
 Dank unserer Sponsoren sind die Kosten für Euch sehr überschaubar und beziffern sich auf € 20,- pro Ticket.
 
 Ihr könnt Euch die Teilnahme sichern durch eine 
-<b><a href="https://ti.to/SoCraTesDayFranken/2023" target="_blank">Anmeldung über Tito</a></b>.
+<b><a href="https://ti.to/SoCraTesDayFranken/2024" target="_blank">Anmeldung über Tito</a></b>.
 
 Wer sich das nicht leisten kann, 
 mag uns gerne <a href="mailto:info@socrates-day-franken.de" target="_blank">kontaktieren</a>
