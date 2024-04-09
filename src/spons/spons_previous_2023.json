@@ -1,0 +1,32 @@
+[
+  {
+    "name": "codecentric AG",
+    "image": "/assets/cc_big-sign_RGB_black.png",
+    "link": "//www.codecentric.de"
+  },
+  {
+    "name": "agile elevation",
+    "image": "/assets/agile-elevation-logo.svg",
+    "link": "//www.agile-elevation.de"
+  },
+  {
+    "name": "DATEV eG",
+    "image": "/assets/datevlogo_2x.png",
+    "link": "//www.datev.de"
+  },
+  {
+    "name": "Hetzner Online GmbH",
+    "image": "/assets/Hetzner-Logo-slogan_red-square.png",
+    "link": "//www.hetzner.de"
+  },
+  {
+    "name": "MATHEMA GmbH",
+    "image": "/assets/mathema-logo.svg",
+    "link": "//mathema.de"
+  },
+  {
+    "name": "Paessler AG",
+    "image": "/assets/paessler-logo.svg",
+    "link": "//www.paessler.com/de"
+  }
+]

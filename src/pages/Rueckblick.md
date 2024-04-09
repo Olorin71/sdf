@@ -1,5 +1,14 @@
 # Rückblick
 
+## 5. SoCraTes Day Franken 2023
+
+Der SoCraTes Day Franken 2023 hat stattgefunden am Samstag den 24.06.2023 in den Räumen der <a href="//www.codecentric.de" target="_blank">codecentric AG</a> in Nürnberg.
+
+## Sessions 2023
+
+<img src="/assets/sdf2023-sessions-1.jpg">
+<img src="/assets/sdf2023-sessions-2.jpg">
+
 ## 4. SoCraTes Day Franken 2021
 
 Der SoCraTes Day Franken 2021 hat nochmal online stattgefunden am Samstag den 09.10.2021
