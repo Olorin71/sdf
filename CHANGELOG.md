@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.3.29](https://gitlab.com/asoler-www/socrates-franken-day/website/compare/v0.3.28...v0.3.29) (2024-04-09)
+
+
+### Features
+
+* prepare website content for 2024 ([3277f17](https://gitlab.com/asoler-www/socrates-franken-day/website/commit/3277f17314486ece7bc8ab871895d9d539e85b72))
+* update to angular 16 ([0b79a71](https://gitlab.com/asoler-www/socrates-franken-day/website/commit/0b79a71dfe118729172599d205dc7d412b691adf))
+
 ### [0.3.28](https://gitlab.com/asoler-www/socrates-franken-day/website/compare/v0.3.27...v0.3.28) (2023-06-16)
 
 
