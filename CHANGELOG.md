@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.3.30](https://gitlab.com/asoler-www/socrates-franken-day/website/compare/v0.3.29...v0.3.30) (2024-04-17)
+
+
+### Features
+
+* add more sponsors for 2024 ([c85bdf5](https://gitlab.com/asoler-www/socrates-franken-day/website/commit/c85bdf59362f8c2b4e9dce6d1f28d7dd678795bb))
+
 ### [0.3.29](https://gitlab.com/asoler-www/socrates-franken-day/website/compare/v0.3.28...v0.3.29) (2024-04-09)
 
 
