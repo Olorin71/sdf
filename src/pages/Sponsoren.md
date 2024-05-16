@@ -6,7 +6,9 @@
 
 ### <a href="//www.codecentric.de" target="_blank">codecentric AG</a>
 
-### <a href="//www.hetzner.de" target="_blank">Hetzner Online GmbH</a>
+### <a href="//www.datev.de" target="_blank">DATEV eG</a>
+
+### <a href="//www.hetzner.com/de/?mtm_campaign=socratesdayfranken24_sponsoring&mtm_medium=referral&mtm_content=sponsoring_link" target="_blank">Hetzner Online GmbH</a>
 
 ### <a href="//www.emelsiegel.com" target="_blank">Emel Siegel Coaching & Consulting</a>
 
