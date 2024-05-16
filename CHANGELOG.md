@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.3.31](https://gitlab.com/asoler-www/socrates-franken-day/website/compare/v0.3.30...v0.3.31) (2024-05-16)
+
+
+### Features
+
+* add DATEV as sponsor and change Hetzner link ([7946b12](https://gitlab.com/asoler-www/socrates-franken-day/website/commit/7946b12f737c8f05ad6876c3c04827270968d6a3))
+
 ### [0.3.30](https://gitlab.com/asoler-www/socrates-franken-day/website/compare/v0.3.29...v0.3.30) (2024-04-17)
 
 
