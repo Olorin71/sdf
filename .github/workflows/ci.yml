@@ -76,7 +76,7 @@ jobs:
           tags: ${{ env.DOCKER_TAGS }}
 
   update_version_number:
-    if: github.ref == 'refs/heads/main'
+    if: github.ref == 'refs/heads/master'
     needs: [docker]
     runs-on: ubuntu-latest
     steps:
