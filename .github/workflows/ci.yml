@@ -66,7 +66,7 @@ jobs:
 
       - name: Add version tag to Docker image
         run: |
-          echo "DOCKER_TAGS=ghcr.io/alexandre-soler-sanandres/sdf:latest,ghcr.io/alexandre-soler-sanandres/sdf:${{ github.sha }},ghcr.io/alexandre-soler-sanandres/sdf:$(cat version.txt)" >> $GITHUB_ENV
+          echo "DOCKER_TAGS=ghcr.io/Olorin71/sdf:latest,ghcr.io/Olorin71/sdf:${{ github.sha }},ghcr.io/Olorin71/sdf:$(cat version.txt)" >> $GITHUB_ENV
 
       - name: Build and push Docker image
         uses: docker/build-push-action@v6.9.0
