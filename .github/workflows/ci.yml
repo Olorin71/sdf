@@ -1,0 +1,77 @@
+name: CI
+
+on: [ push, pull_request ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4.2.1
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4.0.4
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Build application
+        env:
+          ORIGIN: 'https://socrates-day-franken.de'
+        run: npm run build
+
+      - name: Upload build artifacts
+        uses: actions/upload-artifact@v4.4.3
+        with:
+          name: build
+          path: ./dist/**
+
+  docker:
+    if: github.ref == 'refs/heads/main'
+    needs: [ build ]
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4.2.1
+
+      - name: Set up Docker Buildx
+        uses: docker/setup-buildx-action@v3.7.1
+
+      - name: Login to GitHub Container Registry
+        uses: docker/login-action@v3.3.0
+        with:
+          registry: ghcr.io
+          username: ${{ github.actor }}
+          password: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Download build artifacts
+        uses: actions/download-artifact@v4.1.8
+        with:
+          name: build
+          path: ./build
+
+      - name: Install jq
+        uses: dcarbone/install-jq-action@v2.1.0
+
+      - name: Read version from package.json and set tag
+        run: |
+          VERSION=$(jq -r .version package.json)
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git tag $VERSION
+          git push --tags
+          echo $VERSION > version.txt
+
+      - name: Add version tag to Docker image
+        run: |
+          echo "DOCKER_TAGS=ghcr.io/alexandre-soler-sanandres/sdf:latest,ghcr.io/alexandre-soler-sanandres/sdf:${{ github.sha }},ghcr.io/alexandre-soler-sanandres/sdf:$(cat version.txt)" >> $GITHUB_ENV
+
+      - name: Build and push Docker image
+        uses: docker/build-push-action@v6.9.0
+        with:
+          context: .
+          push: true
+          tags: ${{ env.DOCKER_TAGS }}
+
