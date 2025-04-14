@@ -4,7 +4,7 @@
 
 After checkout run `npm ci` to get all dependencies without generating a new [package-lock json](./package-lock.json).
 
-##Development
+## Development
 
 ### Commits
 We use [conventional commit format](https://conventionalcommits.org/) for commit messages.
@@ -17,7 +17,7 @@ When you want to commit changes:
 
 Commit messages that not meet the conventions will be rejected.
 
-## Development server
+### Development server
 
 Run `npm start` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
