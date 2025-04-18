@@ -1,6 +1,6 @@
-# 6. SoCraTes Day Franken
+# 7. SoCraTes Day Franken
 
-## Samstag 29.06.2024 in Nürnberg
+## Samstag 21.06.2025 in Nürnberg
 
 ## Worum geht es?
 
@@ -22,16 +22,5 @@ Das kann stattfinden in Form von
 Der SoCraTes Day Franken wird organisiert von Mitgliedern
 der <a href="https://www.softwerkskammer.org/groups/nuernberg" target="_blank">Softwerkskammer Nürnberg</a>.
 Unsere Events werden auch über unsere <a href="https://www.meetup.com/de-DE/softwerkskammer-nuernberg/" target="_blank">Meetup-Gruppe</a> angekündigt.
-
-## Tickets
-Damit wir die Kosten der Veranstaltung abdecken können, müssen wir leider die Tickets bepreisen. 
-Dank unserer Sponsoren sind die Kosten für Euch sehr überschaubar und beziffern sich auf € 20,- pro Ticket.
-
-Ihr könnt Euch die Teilnahme sichern durch eine 
-<b><a href="https://ti.to/SoCraTesDayFranken/2024" target="_blank">Anmeldung über Tito</a></b>.
-
-Wer sich das nicht leisten kann, 
-mag uns gerne <a href="mailto:info@socrates-day-franken.de" target="_blank">kontaktieren</a>
-und wir finden eine Lösung.
 
 <br/>
