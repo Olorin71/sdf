@@ -2,7 +2,7 @@
 
 ## codecentric AG
 
-Der SoCraTes Day Franken 2023 findet am Samstag, den 21.06.2025 in den Räumen der <a href="//www.codecentric.de" target="_blank">codecentric AG</a> in Nürnberg statt.
+Der SoCraTes Day Franken 2025 findet am Samstag, den 21.06.2025 in den Räumen der <a href="//www.codecentric.de" target="_blank">codecentric AG</a> in Nürnberg statt.
 
 ### Anfahrt
 
