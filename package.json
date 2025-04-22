@@ -1,6 +1,6 @@
 {
   "name": "socrates-franken",
-  "version": "0.3.41",
+  "version": "0.3.42",
   "scripts": {
     "cz": "git add . && git cz",
     "ng": "ng",
@@ -63,6 +63,9 @@
     "Alexandre Soler Sanandres <alexandre@soler-sanandres.net>",
     "thbrunzendorf <thbrunzendorf@aol.com>",
     "René Füger <github@renefueger.de>",
-    "Leon Knabel <leon@knabel.de>"
+    "GitHub Action <action@github.com>",
+    "Leon Knabel <leon@knabel.de>",
+    "Markus Gärtner <shino@shino.de>",
+    "Markus Gärtner <markus.gaertner@it-agile.de>"
   ]
 }

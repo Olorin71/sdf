@@ -2,6 +2,21 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.3.42](https://github.com/Olorin71/sdf/compare/v0.3.31...v0.3.42) (2025-04-22)
+
+
+### Features
+
+* announcing SDF7 ([cbaffcb](https://github.com/Olorin71/sdf/commit/cbaffcbf8a7696ea864df9d3167c4a9d22aaa75c))
+* **rueckblick.md:** add SDF6 info and photos to retro page ([d6b1cc7](https://github.com/Olorin71/sdf/commit/d6b1cc70913bdcf71f54ee594dc436427e276a3a))
+* Sponsor updates ([49e6dac](https://github.com/Olorin71/sdf/commit/49e6dac652fefeb29db6175ad2c3ec4f191d50cd))
+* trimmed the Sponsor page for 2025 ([a1a45f4](https://github.com/Olorin71/sdf/commit/a1a45f4e930222977de67dad4bc47ab8432a7d4c))
+
+
+### Bug Fixes
+
+* **readme.md:** fix markdown in readme file ([8c6c8f7](https://github.com/Olorin71/sdf/commit/8c6c8f7354f868999a893a90ec1f7c725be21e43))
+
 ### [0.3.31](https://gitlab.com/asoler-www/socrates-franken-day/website/compare/v0.3.30...v0.3.31) (2024-05-16)
 
 
