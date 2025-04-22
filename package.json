@@ -1,6 +1,6 @@
 {
   "name": "socrates-franken",
-  "version": "0.3.42",
+  "version": "0.3.43",
   "scripts": {
     "cz": "git add . && git cz",
     "ng": "ng",
