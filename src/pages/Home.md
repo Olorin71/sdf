@@ -23,4 +23,8 @@ Der SoCraTes Day Franken wird organisiert von Mitgliedern
 der <a href="https://www.softwerkskammer.org/groups/nuernberg" target="_blank">Softwerkskammer Nürnberg</a>.
 Unsere Events werden auch über unsere <a href="https://www.meetup.com/de-DE/softwerkskammer-nuernberg/" target="_blank">Meetup-Gruppe</a> angekündigt.
 
+## Tickets
+Ihr könnt Euch die Teilnahme sichern durch eine
+<a href="https://www.meetup.com/de-DE/softwerkskammer-nuernberg/events/307522862/" target="_blank">Anmeldung über Meetup</a>.
+
 <br/>
