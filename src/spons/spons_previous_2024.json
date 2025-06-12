@@ -1,12 +1,22 @@
 [
   {
+    "name": "TeamBank AG",
+    "image": "/assets/TB_Logo_Pos_digital_rgb.png",
+    "link": "//www.teambank.de/"
+  },
+  {
+    "name": "/agile elevation/",
+    "image": "/assets/agile-elevation-logo.svg",
+    "link": "//www.agile-elevation.de"
+  },
+  {
     "name": "codecentric AG",
     "image": "/assets/cc_big-sign_RGB_black.png",
     "link": "//www.codecentric.de"
   },
   {
     "name": "Hetzner Online GmbH",
-    "image": "/assets/Hetzner-Logo-slogan_white_space-red.jpg",
+    "image": "/assets/Hetzner-Logo-slogan_red-square.png",
     "link": "//www.hetzner.com/de"
   },
   {
