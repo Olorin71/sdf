@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.3.45](https://github.com/Olorin71/sdf/compare/v0.3.42...v0.3.45) (2025-06-12)
+
+
+### Features
+
+* add another sponsor and some other minor changes ([a4810fd](https://github.com/Olorin71/sdf/commit/a4810fdd2682d3d88941d481780c0d3a1dc34d50))
+
 ### [0.3.42](https://github.com/Olorin71/sdf/compare/v0.3.31...v0.3.42) (2025-04-22)
 
 
